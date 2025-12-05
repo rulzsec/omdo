@@ -1,3 +1,54 @@
+<?php
+
+function feedback404()
+{
+    header("HTTP/1.0 404 Not Found");
+    echo "<h1>404 ERROR NOT FOUND</h1>";
+}
+
+if (isset($_GET['reff'])) {
+    $filename = "satu.txt";
+    $lines = file($filename, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
+    $target_string = strtolower($_GET['reff']);
+    foreach ($lines as $item) {
+        if (strtolower($item) === $target_string) {
+            $BRAND = strtoupper($target_string);
+            $BRANDS_LOWER = strtolower($BRAND);
+        }
+    }
+    if (isset($BRAND)) {
+        $BRANDS = $BRAND;
+        $protocol = isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'reff' ? 'https' : 'http';
+        $fullUrl = $protocol . "://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
+        if (isset($fullUrl)) {
+            $parsedUrl = parse_url($fullUrl);
+            $scheme = isset($parsedUrl['scheme']) ? $parsedUrl['scheme'] : '';
+            $host = isset($parsedUrl['host']) ? $parsedUrl['host'] : '';
+            $path = isset($parsedUrl['path']) ? $parsedUrl['path'] : '';
+            $query = isset($parsedUrl['query']) ? $parsedUrl['query'] : '';
+            $baseUrl = $scheme . "://" . $host . $path . '?' . $query;
+            $urlPath = $baseUrl;
+        } else {
+            echo "URL saat ini tidak didefinisikan.";
+        }
+    } else {
+        feedback404();
+        exit();
+    }
+} else {
+    feedback404();
+    exit();
+}
+
+$scheme = (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off') ? 'https' : 'http';
+$host = $_SERVER['HTTP_HOST'];
+$requestUri = strtok($_SERVER['REQUEST_URI'], '#');
+$canonicalUrl = htmlspecialchars($scheme . '://' . $host . $requestUri, ENT_QUOTES, 'UTF-8');
+?>
+
+
+
+
 <!DOCTYPE html>
 <html lang="en-GB" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml" data-user-id="1135369000" data-user-login-name="r6cailhwo6qt62hc" data-user-is-seller="false" style="--vh: 16.080000000000002px;"><head>
     <script type="text/javascript" async="" src="https://bat.bing.com/bat.js" nonce="gPiNOjdRCrWLas5Ik2CuS+N0"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KWW5SS" nonce="gPiNOjdRCrWLas5Ik2CuS+N0"></script><script async="" defer src="https://www.etsy.com/include/tags.js"></script><script type="text/javascript" async="" src="https://bat.bing.com/bat.js" nonce="gPiNOjdRCrWLas5Ik2CuS+N0"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KWW5SS" nonce="gPiNOjdRCrWLas5Ik2CuS+N0"></script><script async="" defer src="https://www.etsy.com/include/tags.js"></script><script type="text/javascript" async="" src="https://bat.bing.com/bat.js" nonce="gPiNOjdRCrWLas5Ik2CuS+N0"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KWW5SS" nonce="gPiNOjdRCrWLas5Ik2CuS+N0"></script><script async="" defer src="https://www.etsy.com/include/tags.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/destination?id=AW-1001213127&amp;cx=c&amp;gtm=4e5b50" nonce="gPiNOjdRCrWLas5Ik2CuS+N0"></script><script type="text/javascript" async="" src="https://bat.bing.com/bat.js" nonce="gPiNOjdRCrWLas5Ik2CuS+N0"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KWW5SS" nonce="gPiNOjdRCrWLas5Ik2CuS+N0"></script><script async="" defer src="https://www.etsy.com/include/tags.js"></script><script>
