@@ -7,14 +7,14 @@
     <title>KARTUBET88 : Rasakan Nikmatinya Permainan Yang Seru Dan Berkhualitas</title>
     <meta name="description" content="Bosan dengan game yang itu-itu saja? KARTUBET88 menawarkan kualitas visual dengan sistem permainan kelas dunia. Klik link di bawah. unduh APK-nya serta rasakan sensasi menang yang sesungguhnya.">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://telcovasworld.com/press-release/">
+    <link rel="canonical" href="https://www.telcovasworld.com/press-release/">
     <link rel="amphtml" href="https://telco-press-krt.pages.dev/">
     <meta property="og:title" content="KARTUBET88 : Rasakan Nikmatinya Permainan Yang Seru Dan Berkhualitas">
     <meta property="og:description" content="Bosan dengan game yang itu-itu saja? KARTUBET88 menawarkan kualitas visual dengan sistem permainan kelas dunia. Klik link di bawah. unduh APK-nya serta rasakan sensasi menang yang sesungguhnya.">
     <meta property="og:type" content="website">
     <meta name="keywords" content="KARTUBET88, KARTUBET88 LOGIN, KARTUBET88 GAME, KARTUBET88 APK, KARTUBET88 RESMI, LINK KARTUBET88">
     <meta name="publisher" content="KARTUBET88">
-    <meta property="og:url" content="https://telcovasworld.com/press-release/">
+    <meta property="og:url" content="https://www.telcovasworld.com/press-release/">
     <meta property="og:site_name" content="KARTUBET88">
     <meta property="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgB3cfP1WbqOY3-fRU1GJfTkj6DLb2LByCwu-Z_DO1TTYqFQQJYa-Lx6q9YQ3npXB097uNP0DnQJUN4uYumSMZHgiHImN2VuD_Nge7cWkKXxh3u8K57dZiKizkp6gWrVlmJTOQuhXHgTZ9Miw0_c6xleOq1wLlbf5FMDca3ryoGoQOZfWGRYiwRQEk_EXc/s16000/banner-kartubet88-new-sangat-bro.png">
     <meta property="og:image:alt" content="KARTUBET88">
@@ -34,12 +34,12 @@
     <link rel="preconnect" href="https://account.envato.com">
     <link rel="preconnect" href="https://assets.elements.envato.com">
     <link rel="preconnect" href="https://elements-resized.envatousercontent.com">
-    <link rel="alternate" hreflang="de" href="https://telcovasworld.com/press-release/">
-    <link rel="alternate" hreflang="en" href="https://telcovasworld.com/press-release/">
-    <link rel="alternate" hreflang="es" href="https://telcovasworld.com/press-release/">
-    <link rel="alternate" hreflang="fr" href="https://telcovasworld.com/press-release/">
-    <link rel="alternate" hreflang="pt-BR" href="https://telcovasworld.com/press-release/">
-    <link rel="alternate" hreflang="ru" href="https://telcovasworld.com/press-release/">
+    <link rel="alternate" hreflang="de" href="https://www.telcovasworld.com/press-release/">
+    <link rel="alternate" hreflang="en" href="https://www.telcovasworld.com/press-release/">
+    <link rel="alternate" hreflang="es" href="https://www.telcovasworld.com/press-release/">
+    <link rel="alternate" hreflang="fr" href="https://www.telcovasworld.com/press-release/">
+    <link rel="alternate" hreflang="pt-BR" href="https://www.telcovasworld.com/press-release/">
+    <link rel="alternate" hreflang="ru" href="https://www.telcovasworld.com/press-release/">
     <link rel="alternate" href="https://telco-press-krt.pages.dev/"> 
     <link rel="alternate" href="https://telco-press-krt.pages.dev/" hreflang="id">
     <link rel="alternate" href="https://telco-press-krt.pages.dev/" hreflang="x-default">
@@ -50,10 +50,10 @@
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   "itemListElement": [
-    { "@type": "ListItem", "position": 1, "name": "KARTUBET88", "item": "https://telcovasworld.com/press-release/" },
-    { "@type": "ListItem", "position": 2, "name": "KARTUBET88 LOGIN", "item": "https://telcovasworld.com/press-release/" },
-    { "@type": "ListItem", "position": 3, "name": "KARTUBET88 GAME", "item": "https://telcovasworld.com/press-release/" },
-    { "@type": "ListItem", "position": 4, "name": "SITUS KARTUBET88", "item": "https://telcovasworld.com/press-release/" }
+    { "@type": "ListItem", "position": 1, "name": "KARTUBET88", "item": "https://www.telcovasworld.com/press-release/" },
+    { "@type": "ListItem", "position": 2, "name": "KARTUBET88 LOGIN", "item": "https://www.telcovasworld.com/press-release/" },
+    { "@type": "ListItem", "position": 3, "name": "KARTUBET88 GAME", "item": "https://www.telcovasworld.com/press-release/" },
+    { "@type": "ListItem", "position": 4, "name": "SITUS KARTUBET88", "item": "https://www.telcovasworld.com/press-release/" }
   ]
 }
 </script>
@@ -63,14 +63,14 @@
   "@type": "OnlineBusiness",
   "name": "KARTUBET88",
   "alternateName": ["KARTUBET88","GAME"],
-  "url": "https://telcovasworld.com/press-release/",
+  "url": "https://www.telcovasworld.com/press-release/",
   "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoIYr_dt4YTCy0jGqQIcZ3K-90otKwzOqpfglSRODjucLmecRA6OZjZEI_qo8GhUEvKS30Dm7j3tsncfh0i6-B4lTMfeYgJCO5FUAgGejsgKjK33ko4TgjE05hyphenhyphenXs_2g8_0erEukWqGd-nho7g-HY6sPAfoM3s3ByYpivQn4wge1Yv2O_Gf1DL_Q8rFLY/s320/logo-kartubet88-resmi-wow.png",
   "title": "KARTUBET88 : Rasakan Nikmatinya Permainan Yang Seru Dan Berkhualitas",
   "description": "Bosan dengan game yang itu-itu saja? KARTUBET88 menawarkan kualitas visual dengan sistem permainan kelas dunia. Klik link di bawah. unduh APK-nya serta rasakan sensasi menang yang sesungguhnya.",
   "contactPoint": {
     "@type": "ContactPoint",
     "contactType": "Customer Support",
-    "url": "https://telcovasworld.com/press-release/",
+    "url": "https://www.telcovasworld.com/press-release/",
     "availableLanguage": ["English"],
     "areaServed": "Worldwide"
   },
@@ -84,11 +84,11 @@
     "addressCountry": "AU"
   },
   "subOrganization": [
-    { "@type": "OnlineBusiness", "name": "KARTUBET88", "url": "https://telcovasworld.com/press-release/" },
-    { "@type": "OnlineBusiness", "name": "KARTUBET88 LOGIN", "url": "https://telcovasworld.com/press-release/" },
-    { "@type": "OnlineBusiness", "name": "KARTUBET88 GAME", "url": "https://telcovasworld.com/press-release/" },
-    { "@type": "OnlineBusiness", "name": "SITUS KARTUBET88", "url": "https://telcovasworld.com/press-release/" },
-    { "@type": "OnlineBusiness", "name": "KARTUBET88 RESMI", "url": "https://telcovasworld.com/press-release/" }
+    { "@type": "OnlineBusiness", "name": "KARTUBET88", "url": "https://www.telcovasworld.com/press-release/" },
+    { "@type": "OnlineBusiness", "name": "KARTUBET88 LOGIN", "url": "https://www.telcovasworld.com/press-release/" },
+    { "@type": "OnlineBusiness", "name": "KARTUBET88 GAME", "url": "https://www.telcovasworld.com/press-release/" },
+    { "@type": "OnlineBusiness", "name": "SITUS KARTUBET88", "url": "https://www.telcovasworld.com/press-release/" },
+    { "@type": "OnlineBusiness", "name": "KARTUBET88 RESMI", "url": "https://www.telcovasworld.com/press-release/" }
   ],
   "sameAs": [
     "https://www.facebook.com/KARTUBET88/",
@@ -107,7 +107,7 @@
   "@context": "https://schema.org",
   "@type": "WebSite",
   "name": "KARTUBET88",
-  "url": "https://telcovasworld.com/press-release/"
+  "url": "https://www.telcovasworld.com/press-release/"
 }
 </script>
 <script type="application/ld+json" id="faq-schema">
@@ -163,7 +163,7 @@
        "@context": "https://schema.org",
        "@type": "Organization",
        "name": "KARTUBET88",
-       "url": "https://telcovasworld.com/press-release/",
+       "url": "https://www.telcovasworld.com/press-release/",
        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoIYr_dt4YTCy0jGqQIcZ3K-90otKwzOqpfglSRODjucLmecRA6OZjZEI_qo8GhUEvKS30Dm7j3tsncfh0i6-B4lTMfeYgJCO5FUAgGejsgKjK33ko4TgjE05hyphenhyphenXs_2g8_0erEukWqGd-nho7g-HY6sPAfoM3s3ByYpivQn4wge1Yv2O_Gf1DL_Q8rFLY/s320/logo-kartubet88-resmi-wow.png",
        "sameAs": [
          "https://www.facebook.com/KARTUBET88",
@@ -192,7 +192,7 @@
        ],
        "uploadDate": "2026-04-19T04:19:10-04:00",
        "duration": "PT168",
-       "contentUrl": "https://telcovasworld.com/press-release/"
+       "contentUrl": "https://www.telcovasworld.com/press-release/"
      }
      </script>
      
@@ -205,7 +205,7 @@
            "@type": "ListItem",
            "position": 1,
            "name": "Home",
-           "item": "https://telcovasworld.com/press-release/"
+           "item": "https://www.telcovasworld.com/press-release/"
          }
        ]
      }
@@ -217,27 +217,27 @@
        "@graph": [
          {
            "@type": "Organization",
-           "@id": "https://telcovasworld.com/press-release/#org",
+           "@id": "https://www.telcovasworld.com/press-release/#org",
            "name": "KARTUBET88",
-           "url": "https://telcovasworld.com/press-release/",
+           "url": "https://www.telcovasworld.com/press-release/",
            "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgB3cfP1WbqOY3-fRU1GJfTkj6DLb2LByCwu-Z_DO1TTYqFQQJYa-Lx6q9YQ3npXB097uNP0DnQJUN4uYumSMZHgiHImN2VuD_Nge7cWkKXxh3u8K57dZiKizkp6gWrVlmJTOQuhXHgTZ9Miw0_c6xleOq1wLlbf5FMDca3ryoGoQOZfWGRYiwRQEk_EXc/s16000/banner-kartubet88-new-sangat-bro.png"
          },
          {
            "@type": "WebSite",
-           "@id": "https://telcovasworld.com/press-release/#website",
-           "url": "https://telcovasworld.com/press-release/",
+           "@id": "https://www.telcovasworld.com/press-release/#website",
+           "url": "https://www.telcovasworld.com/press-release/",
            "name": "KARTUBET88",
-           "publisher": { "@id": "https://telcovasworld.com/press-release/#org" },
+           "publisher": { "@id": "https://www.telcovasworld.com/press-release/#org" },
            "inLanguage": "id-ID",
            "potentialAction": {
              "@type": "SearchAction",
-             "target": "https://telcovasworld.com/press-release/?s={search_term_string}",
+             "target": "https://www.telcovasworld.com/press-release/?s={search_term_string}",
              "query-input": "required name=search_term_string"
            }
          },
          {
            "@type": "SoftwareApplication",
-           "@id": "https://telcovasworld.com/press-release/#app",
+           "@id": "https://www.telcovasworld.com/press-release/#app",
            "name": "KARTUBET88",
            "applicationCategory": "GameApplication",
            "operatingSystem": "Android, iOS, Windows",
@@ -259,7 +259,7 @@
       <div class="s5pWCGgK">
         <div data-auto_prompt="true" data-client_id="210993992398-6j5f83b610ntihr41t44ron3e54uci6o.apps.googleusercontent.com" data-context="use" data-itp_support="true" data-login_uri="https://account.envato.com/oauth/google/callback_one_tap?to=elements&amp;language_code=en&amp;state=JTdCJTIycGF0aCUyMiUzQSUyMiUyRmxhcHRvcC1tb2NrdXAtUzcyOERLMyUyMiU3RA%3D%3D" data-nonce="241732ec-ee88-4477-996a-f51c984f2eb2" data-use_fedcm_for_prompt="true" id="g_id_onload">
         </div>
-<a class="R5zT8dJT" href="https://telcovasworld.com/press-release/#content"><span class="_7yoIykb4 oddFflBz Qu5eWXzk">Skip to content</span></a>
+<a class="R5zT8dJT" href="https://www.telcovasworld.com/press-release/#content"><span class="_7yoIykb4 oddFflBz Qu5eWXzk">Skip to content</span></a>
         <div class="E2ql0nWs" style="--header-height: 128px;">
           <div class="ES35fwD6 color-scheme-dark jjnfNUdM l38mXzx2">
             <div class="ES35fwD6 Z8wCehge sNjFhu89">
@@ -272,7 +272,7 @@
                           <header aria-label="header-nav" class="ES35fwD6" data-testid="standard-header">
                             <div class="c79hz7DG">
                               <div aria-label="Logo" class="o6A1CHw4">
-<a class="XnPoMwM8" href="https://telcovasworld.com/press-release/">
+<a class="XnPoMwM8" href="https://www.telcovasworld.com/press-release/">
                                   <div class="ES35fwD6 hpXGB4LP Z8wCehge ZAaTEPZZ" data-testid="KARTUBET88-logo">
 <img alt="KARTUBET88" class="ChlZMOuv" height="32" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoIYr_dt4YTCy0jGqQIcZ3K-90otKwzOqpfglSRODjucLmecRA6OZjZEI_qo8GhUEvKS30Dm7j3tsncfh0i6-B4lTMfeYgJCO5FUAgGejsgKjK33ko4TgjE05hyphenhyphenXs_2g8_0erEukWqGd-nho7g-HY6sPAfoM3s3ByYpivQn4wge1Yv2O_Gf1DL_Q8rFLY/s320/logo-kartubet88-resmi-wow.png"/>
                                   </div>
@@ -286,7 +286,7 @@
                                       </div>
                                     </div>
                                     <li class="Noa5OylB" data-testid="ai-labs-nav-item">
-<button class="NEBoYFW6" data-testid="nav-item" type="button"><span class="_7yoIykb4 DbkD6_G1 hfldU1gb"></span><a href="https://telcovasworld.com/press-release/"><span class="_7yoIykb4 DbkD6_G1 hfldU1gb">KARTUBET88</span></a><span aria-hidden="true" class="XBxg7D2q">
+<button class="NEBoYFW6" data-testid="nav-item" type="button"><span class="_7yoIykb4 DbkD6_G1 hfldU1gb"></span><a href="https://www.telcovasworld.com/press-release/"><span class="_7yoIykb4 DbkD6_G1 hfldU1gb">KARTUBET88</span></a><span aria-hidden="true" class="XBxg7D2q">
                                           <svg class="ovfKxhpl VJ1V6O3f" focusable="false" role="img" style="--color:var(--color-content-secondary, currentColor)" title="chevron-down" viewbox="0 0 24 24">
 <use href="#chevron-down"></use>
                                           </svg>
@@ -417,7 +417,7 @@ Craft icons and illustrations with a reference style and text prompt.
                                       </div>
                                     </div>
                                     <li class="Noa5OylB">
-<button class="NEBoYFW6" data-testid="nav-item" type="button"><span class="_7yoIykb4 DbkD6_G1 hfldU1gb"></span><a href="https://telcovasworld.com/press-release/"><span class="_7yoIykb4 DbkD6_G1 hfldU1gb">KARTUBET88 LOGIN</span></a><span aria-hidden="true" class="XBxg7D2q">
+<button class="NEBoYFW6" data-testid="nav-item" type="button"><span class="_7yoIykb4 DbkD6_G1 hfldU1gb"></span><a href="https://www.telcovasworld.com/press-release/"><span class="_7yoIykb4 DbkD6_G1 hfldU1gb">KARTUBET88 LOGIN</span></a><span aria-hidden="true" class="XBxg7D2q">
                                           <svg class="ovfKxhpl VJ1V6O3f" focusable="false" role="img" style="--color: var(--color-content-secondary, currentColor);" title="chevron-down" viewbox="0 0 24 24">
 <use href="#chevron-down"></use>
                                           </svg>
@@ -434,63 +434,63 @@ Craft icons and illustrations with a reference style and text prompt.
                                                         <div class="ES35fwD6">
                                                           <ul class="QejAgNG_ gktLxQxk">
                                                             <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/">
                                                                 <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 jcI_vEqq Qu5eWXzk">All Video Templates →</span>
                                                                 </div>
 </a>
                                                             </li>
                                                             <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release//broadcast-packages">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release//broadcast-packages">
                                                                 <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Broadcast Packages</span>
                                                                 </div>
 </a>
                                                             </li>
                                                             <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release//elements">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release//elements">
                                                                 <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Elements</span>
                                                                 </div>
 </a>
                                                             </li>
                                                             <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release//logo-stings">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release//logo-stings">
                                                                 <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Logo Reveals</span>
                                                                 </div>
 </a>
                                                             </li>
                                                             <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release//openers">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release//openers">
                                                                 <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Video Intros</span>
                                                                 </div>
 </a>
                                                             </li>
                                                             <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release//product-promo">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release//product-promo">
                                                                 <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Promos</span>
                                                                 </div>
 </a>
                                                             </li>
                                                             <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release//titles">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release//titles">
                                                                 <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Title Sequences</span>
                                                                 </div>
 </a>
                                                             </li>
                                                             <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release//infographics">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release//infographics">
                                                                 <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Infographics</span>
                                                                 </div>
 </a>
                                                             </li>
                                                             <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release//video-displays">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release//video-displays">
                                                                 <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Video Displays</span>
                                                                 </div>
@@ -511,35 +511,35 @@ Compatible Tools
                                                             </div>
                                                             <ul class="QejAgNG_ gktLxQxk">
                                                               <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release//compatible-with-premiere-pro">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release//compatible-with-premiere-pro">
                                                                   <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Premiere Pro</span>
                                                                   </div>
 </a>
                                                               </li>
                                                               <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release//compatible-with-after-effects">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release//compatible-with-after-effects">
                                                                   <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">After Effects</span>
                                                                   </div>
 </a>
                                                               </li>
                                                               <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release//compatible-with-apple-motion">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release//compatible-with-apple-motion">
                                                                   <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Apple Motion</span>
                                                                   </div>
 </a>
                                                               </li>
                                                               <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release//compatible-with-final-cut-pro">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release//compatible-with-final-cut-pro">
                                                                   <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Final Cut Pro</span>
                                                                   </div>
 </a>
                                                               </li>
                                                               <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release//compatible-with-davinci-resolve">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release//compatible-with-davinci-resolve">
                                                                   <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">DaVinci Resolve</span>
                                                                   </div>
@@ -555,56 +555,56 @@ Top Video Searches
                                                             </div>
                                                             <ul class="QejAgNG_ gktLxQxk">
                                                               <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release//logo+animation">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release//logo+animation">
                                                                   <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Logo Animation</span>
                                                                   </div>
 </a>
                                                               </li>
                                                               <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release//text">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release//text">
                                                                   <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Text</span>
                                                                   </div>
 </a>
                                                               </li>
                                                               <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release//podcast">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release//podcast">
                                                                   <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Podcast</span>
                                                                   </div>
 </a>
                                                               </li>
                                                               <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release//mockup">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release//mockup">
                                                                   <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Mockup</span>
                                                                   </div>
 </a>
                                                               </li>
                                                               <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release//slideshow">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release//slideshow">
                                                                   <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Slideshow</span>
                                                                   </div>
 </a>
                                                               </li>
                                                               <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release//lower+thirds">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release//lower+thirds">
                                                                   <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Lower Thirds</span>
                                                                   </div>
 </a>
                                                               </li>
                                                               <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release//trailer">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release//trailer">
                                                                   <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Trailer</span>
                                                                   </div>
 </a>
                                                               </li>
                                                               <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release//indian+wedding+invitation">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release//indian+wedding+invitation">
                                                                   <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Indian Wedding Invitation</span>
                                                                   </div>
@@ -628,7 +628,7 @@ Top Video Searches
                                       </div>
                                     </div>
                                     <li class="Noa5OylB">
-<button class="NEBoYFW6" data-testid="nav-item" type="button"><span class="_7yoIykb4 DbkD6_G1 hfldU1gb"></span><a href="https://telcovasworld.com/press-release/"><span class="_7yoIykb4 DbkD6_G1 hfldU1gb">KARTUBET88 GAME</span></a><span aria-hidden="true" class="XBxg7D2q">
+<button class="NEBoYFW6" data-testid="nav-item" type="button"><span class="_7yoIykb4 DbkD6_G1 hfldU1gb"></span><a href="https://www.telcovasworld.com/press-release/"><span class="_7yoIykb4 DbkD6_G1 hfldU1gb">KARTUBET88 GAME</span></a><span aria-hidden="true" class="XBxg7D2q">
                                           <svg class="ovfKxhpl VJ1V6O3f" focusable="false" role="img" style="--color: var(--color-content-secondary, currentColor);" title="chevron-down" viewbox="0 0 24 24">
 <use href="#chevron-down"></use>
                                           </svg>
@@ -645,63 +645,63 @@ Top Video Searches
                                                         <div class="ES35fwD6">
                                                           <ul class="QejAgNG_ gktLxQxk">
                                                             <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/">
                                                                 <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 jcI_vEqq Qu5eWXzk">All Stock Video →</span>
                                                                 </div>
 </a>
                                                             </li>
                                                             <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/stock-video/background">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/stock-video/background">
                                                                 <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Background</span>
                                                                 </div>
 </a>
                                                             </li>
                                                             <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/stock-video/nature">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/stock-video/nature">
                                                                 <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Nature</span>
                                                                 </div>
 </a>
                                                             </li>
                                                             <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/stock-video/business">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/stock-video/business">
                                                                 <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Business</span>
                                                                 </div>
 </a>
                                                             </li>
                                                             <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/stock-video/woman">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/stock-video/woman">
                                                                 <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Woman</span>
                                                                 </div>
 </a>
                                                             </li>
                                                             <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/stock-video/technology">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/stock-video/technology">
                                                                 <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Technology</span>
                                                                 </div>
 </a>
                                                             </li>
                                                             <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/stock-video/people">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/stock-video/people">
                                                                 <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">People</span>
                                                                 </div>
 </a>
                                                             </li>
                                                             <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/stock-video/man">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/stock-video/man">
                                                                 <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Man</span>
                                                                 </div>
 </a>
                                                             </li>
                                                             <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/stock-video/travel">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/stock-video/travel">
                                                                 <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Travel</span>
                                                                 </div>
@@ -712,63 +712,63 @@ Top Video Searches
                                                         <div class="ES35fwD6">
                                                           <ul class="QejAgNG_ gktLxQxk">
                                                             <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/stock-video/motion-graphics">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/stock-video/motion-graphics">
                                                                 <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 jcI_vEqq Qu5eWXzk">All Motion Graphics →</span>
                                                                 </div>
 </a>
                                                             </li>
                                                             <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/stock-video/motion-graphics/backgrounds">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/stock-video/motion-graphics/backgrounds">
                                                                 <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Backgrounds</span>
                                                                 </div>
 </a>
                                                             </li>
                                                             <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/stock-video/motion-graphics/elements">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/stock-video/motion-graphics/elements">
                                                                 <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Elements</span>
                                                                 </div>
 </a>
                                                             </li>
                                                             <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/stock-video/motion-graphics/infographics">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/stock-video/motion-graphics/infographics">
                                                                 <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Animated Infographics</span>
                                                                 </div>
 </a>
                                                             </li>
                                                             <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/stock-video/motion-graphics/interface-effects">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/stock-video/motion-graphics/interface-effects">
                                                                 <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Interface Effects</span>
                                                                 </div>
 </a>
                                                             </li>
                                                             <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/stock-video/motion-graphics/overlays">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/stock-video/motion-graphics/overlays">
                                                                 <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Overlays</span>
                                                                 </div>
 </a>
                                                             </li>
                                                             <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/stock-video/motion-graphics/revealer">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/stock-video/motion-graphics/revealer">
                                                                 <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Revealer</span>
                                                                 </div>
 </a>
                                                             </li>
                                                             <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/stock-video/motion-graphics/transitions">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/stock-video/motion-graphics/transitions">
                                                                 <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Transitions</span>
                                                                 </div>
 </a>
                                                             </li>
                                                             <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/stock-video/motion-graphics/lower-thirds">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/stock-video/motion-graphics/lower-thirds">
                                                                 <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Lower Thirds</span>
                                                                 </div>
@@ -789,56 +789,56 @@ Top Video Searches
                                                             </div>
                                                             <ul class="QejAgNG_ gktLxQxk">
                                                               <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/stock-video/b-roll">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/stock-video/b-roll">
                                                                   <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">B-roll</span>
                                                                   </div>
 </a>
                                                               </li>
                                                               <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/stock-video/resolume">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/stock-video/resolume">
                                                                   <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Resolume</span>
                                                                   </div>
 </a>
                                                               </li>
                                                               <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/stock-video/vj+loops">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/stock-video/vj+loops">
                                                                   <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">VJ Loops</span>
                                                                   </div>
 </a>
                                                               </li>
                                                               <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/stock-video/orientation-vertical">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/stock-video/orientation-vertical">
                                                                   <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Vertical Videos</span>
                                                                   </div>
 </a>
                                                               </li>
                                                               <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/stock-video/intro">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/stock-video/intro">
                                                                   <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Intro</span>
                                                                   </div>
 </a>
                                                               </li>
                                                               <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/stock-video/drone">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/stock-video/drone">
                                                                   <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Drone</span>
                                                                   </div>
 </a>
                                                               </li>
                                                               <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/stock-video/green+screen">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/stock-video/green+screen">
                                                                   <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Green Screen</span>
                                                                   </div>
 </a>
                                                               </li>
                                                               <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/stock-video/satisfying+video">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/stock-video/satisfying+video">
                                                                   <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Satisfying</span>
                                                                   </div>
@@ -862,7 +862,7 @@ Top Video Searches
                                       </div>
                                     </div>
                                     <li class="Noa5OylB">
-<button class="NEBoYFW6" data-testid="nav-item" type="button"><span class="_7yoIykb4 DbkD6_G1 hfldU1gb"></span><a href="https://telcovasworld.com/press-release/"><span class="_7yoIykb4 DbkD6_G1 hfldU1gb">SITUS KARTUBET88</span></a><span aria-hidden="true" class="XBxg7D2q">
+<button class="NEBoYFW6" data-testid="nav-item" type="button"><span class="_7yoIykb4 DbkD6_G1 hfldU1gb"></span><a href="https://www.telcovasworld.com/press-release/"><span class="_7yoIykb4 DbkD6_G1 hfldU1gb">SITUS KARTUBET88</span></a><span aria-hidden="true" class="XBxg7D2q">
                                           <svg class="ovfKxhpl VJ1V6O3f" focusable="false" role="img" style="--color: var(--color-content-secondary, currentColor);" title="chevron-down" viewbox="0 0 24 24">
 <use href="#chevron-down"></use>
                                           </svg>
@@ -879,70 +879,70 @@ Top Video Searches
                                                         <div class="ES35fwD6">
                                                           <ul class="QejAgNG_ gktLxQxk">
                                                             <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/c/audio">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/c/audio">
                                                                 <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 jcI_vEqq Qu5eWXzk">All Music →</span>
                                                                 </div>
 </a>
                                                             </li>
                                                             <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/audio/logos-and-idents">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/audio/logos-and-idents">
                                                                 <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Logos and Idents</span>
                                                                 </div>
 </a>
                                                             </li>
                                                             <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/audio/background+music">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/audio/background+music">
                                                                 <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Background</span>
                                                                 </div>
 </a>
                                                             </li>
                                                             <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release//mood-epic">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release//mood-epic">
                                                                 <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Epic</span>
                                                                 </div>
 </a>
                                                             </li>
                                                             <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release//mood-upbeat">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release//mood-upbeat">
                                                                 <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Upbeat</span>
                                                                 </div>
 </a>
                                                             </li>
                                                             <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release//genre-corporate">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release//genre-corporate">
                                                                 <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Corporate</span>
                                                                 </div>
 </a>
                                                             </li>
                                                             <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release//mood-happy">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release//mood-happy">
                                                                 <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Happy</span>
                                                                 </div>
 </a>
                                                             </li>
                                                             <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release//genre-rock">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release//genre-rock">
                                                                 <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Rock</span>
                                                                 </div>
 </a>
                                                             </li>
                                                             <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release//genre-funk">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release//genre-funk">
                                                                 <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Funk</span>
                                                                 </div>
 </a>
                                                             </li>
                                                             <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/audio/intro">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/audio/intro">
                                                                 <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Intro</span>
                                                                 </div>
@@ -953,63 +953,63 @@ Top Video Searches
                                                         <div class="ES35fwD6">
                                                           <ul class="QejAgNG_ gktLxQxk">
                                                             <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/sound-effects">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/sound-effects">
                                                                 <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 jcI_vEqq Qu5eWXzk">All Sound Effects →</span>
                                                                 </div>
 </a>
                                                             </li>
                                                             <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/sound-effects/game-sounds">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/sound-effects/game-sounds">
                                                                 <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Gaming</span>
                                                                 </div>
 </a>
                                                             </li>
                                                             <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/sound-effects/transitions-and-movement">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/sound-effects/transitions-and-movement">
                                                                 <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Transitions and Movement</span>
                                                                 </div>
 </a>
                                                             </li>
                                                             <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/sound-effects/domestic-sounds">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/sound-effects/domestic-sounds">
                                                                 <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Domestic</span>
                                                                 </div>
 </a>
                                                             </li>
                                                             <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/sound-effects/human-sounds">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/sound-effects/human-sounds">
                                                                 <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Human</span>
                                                                 </div>
 </a>
                                                             </li>
                                                             <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/sound-effects/urban-sounds">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/sound-effects/urban-sounds">
                                                                 <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Urban</span>
                                                                 </div>
 </a>
                                                             </li>
                                                             <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/sound-effects/nature-sounds">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/sound-effects/nature-sounds">
                                                                 <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Nature</span>
                                                                 </div>
 </a>
                                                             </li>
                                                             <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/sound-effects/futuristic-sounds">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/sound-effects/futuristic-sounds">
                                                                 <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Futuristic</span>
                                                                 </div>
 </a>
                                                             </li>
                                                             <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/sound-effects/interface-sounds">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/sound-effects/interface-sounds">
                                                                 <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Interface</span>
                                                                 </div>
@@ -1030,56 +1030,56 @@ Top Music Searches
                                                             </div>
                                                             <ul class="QejAgNG_ gktLxQxk">
                                                               <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/audio/movie">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/audio/movie">
                                                                   <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Movie</span>
                                                                   </div>
 </a>
                                                               </li>
                                                               <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/audio/podcast+intro+music">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/audio/podcast+intro+music">
                                                                   <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Podcast Intro</span>
                                                                   </div>
 </a>
                                                               </li>
                                                               <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/audio/happy+birthday">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/audio/happy+birthday">
                                                                   <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Happy Birthday</span>
                                                                   </div>
 </a>
                                                               </li>
                                                               <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/audio/instagram+reel">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/audio/instagram+reel">
                                                                   <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Instagram Reel</span>
                                                                   </div>
 </a>
                                                               </li>
                                                               <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/audio/devotional+music">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/audio/devotional+music">
                                                                   <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Devotional</span>
                                                                   </div>
 </a>
                                                               </li>
                                                               <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/audio/islamic+intro">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/audio/islamic+intro">
                                                                   <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Islamic Intro</span>
                                                                   </div>
 </a>
                                                               </li>
                                                               <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/audio/military+drum">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/audio/military+drum">
                                                                   <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Military Drum</span>
                                                                   </div>
 </a>
                                                               </li>
                                                               <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/audio/breaking+news+intro">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/audio/breaking+news+intro">
                                                                   <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Breaking News Intro</span>
                                                                   </div>
@@ -1089,7 +1089,7 @@ Top Music Searches
                                                           </div>
                                                         </div>
                                                       </div>
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/audio/portfolio-premiumbeat">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/audio/portfolio-premiumbeat">
                                                         <div class="iibw2DNu">
                                                           <div class="QejAgNG_ rGep5HSU">
 <img alt="PremiumBeat Content Feature" src="https://assets.elements.envato.com/apps/storefront/audio.compressed-11d9cee9c59e9605c2cf.avif"/>
@@ -1118,7 +1118,7 @@ New music from PremiumBeat
                                       </div>
                                     </div>
                                     <li class="Noa5OylB">
-<button class="NEBoYFW6" data-testid="nav-item" type="button"><span class="_7yoIykb4 DbkD6_G1 hfldU1gb"></span><a href="https://telcovasworld.com/press-release/"><span class="_7yoIykb4 DbkD6_G1 hfldU1gb">KARTUBET88 RESMI</span></a><span aria-hidden="true" class="XBxg7D2q">
+<button class="NEBoYFW6" data-testid="nav-item" type="button"><span class="_7yoIykb4 DbkD6_G1 hfldU1gb"></span><a href="https://www.telcovasworld.com/press-release/"><span class="_7yoIykb4 DbkD6_G1 hfldU1gb">KARTUBET88 RESMI</span></a><span aria-hidden="true" class="XBxg7D2q">
                                           <svg class="ovfKxhpl VJ1V6O3f" focusable="false" role="img" style="--color: var(--color-content-secondary, currentColor);" title="chevron-down" viewbox="0 0 24 24">
 <use href="#chevron-down"></use>
                                           </svg>
@@ -1135,49 +1135,49 @@ New music from PremiumBeat
                                                         <div class="ES35fwD6">
                                                           <ul class="QejAgNG_ gktLxQxk">
                                                             <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/graphics">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/graphics">
                                                                 <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 jcI_vEqq Qu5eWXzk">All Graphics →</span>
                                                                 </div>
 </a>
                                                             </li>
                                                             <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/graphics/objects">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/graphics/objects">
                                                                 <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Objects</span>
                                                                 </div>
 </a>
                                                             </li>
                                                             <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/graphics/illustrations">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/graphics/illustrations">
                                                                 <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Illustrations</span>
                                                                 </div>
 </a>
                                                             </li>
                                                             <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/graphics/icons">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/graphics/icons">
                                                                 <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Icons</span>
                                                                 </div>
 </a>
                                                             </li>
                                                             <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/graphics/backgrounds">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/graphics/backgrounds">
                                                                 <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Backgrounds</span>
                                                                 </div>
 </a>
                                                             </li>
                                                             <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/graphics/textures">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/graphics/textures">
                                                                 <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Textures</span>
                                                                 </div>
 </a>
                                                             </li>
                                                             <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/graphics/patterns">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/graphics/patterns">
                                                                 <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Patterns</span>
                                                                 </div>
@@ -1188,35 +1188,35 @@ New music from PremiumBeat
                                                         <div class="ES35fwD6">
                                                           <ul class="QejAgNG_ gktLxQxk">
                                                             <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/add-ons">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/add-ons">
                                                                 <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 jcI_vEqq Qu5eWXzk">All Add-ons →</span>
                                                                 </div>
 </a>
                                                             </li>
                                                             <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/add-ons/actions-and-presets">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/add-ons/actions-and-presets">
                                                                 <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Actions and Presets</span>
                                                                 </div>
 </a>
                                                             </li>
                                                             <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/add-ons/brushes">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/add-ons/brushes">
                                                                 <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Brushes</span>
                                                                 </div>
 </a>
                                                             </li>
                                                             <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/add-ons/layer-styles">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/add-ons/layer-styles">
                                                                 <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Layer Styles</span>
                                                                 </div>
 </a>
                                                             </li>
                                                             <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/add-ons/palettes">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/add-ons/palettes">
                                                                 <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Palettes &amp; Gradient Maps</span>
                                                                 </div>
@@ -1237,35 +1237,35 @@ Compatible Tools
                                                             </div>
                                                             <ul class="QejAgNG_ gktLxQxk">
                                                               <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/graphics/compatible-with-adobe-photoshop">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/graphics/compatible-with-adobe-photoshop">
                                                                   <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Adobe Photoshop</span>
                                                                   </div>
 </a>
                                                               </li>
                                                               <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/graphics/compatible-with-adobe-illustrator">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/graphics/compatible-with-adobe-illustrator">
                                                                   <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Adobe Illustrator</span>
                                                                   </div>
 </a>
                                                               </li>
                                                               <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/graphics/compatible-with-figma">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/graphics/compatible-with-figma">
                                                                   <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Figma</span>
                                                                   </div>
 </a>
                                                               </li>
                                                               <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/graphics/compatible-with-sketch">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/graphics/compatible-with-sketch">
                                                                   <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Sketch</span>
                                                                   </div>
 </a>
                                                               </li>
                                                               <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/graphics/compatible-with-affinity-designer">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/graphics/compatible-with-affinity-designer">
                                                                   <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Affinity Designer</span>
                                                                   </div>
@@ -1281,56 +1281,56 @@ Top Graphics Searches
                                                             </div>
                                                             <ul class="QejAgNG_ gktLxQxk">
                                                               <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/graphics/icons/food">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/graphics/icons/food">
                                                                   <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Food Icons</span>
                                                                   </div>
 </a>
                                                               </li>
                                                               <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/graphics/overlay">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/graphics/overlay">
                                                                   <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Overlay</span>
                                                                   </div>
 </a>
                                                               </li>
                                                               <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/graphics/youtube">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/graphics/youtube">
                                                                   <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">YouTube</span>
                                                                   </div>
 </a>
                                                               </li>
                                                               <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/graphics/torn+paper">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/graphics/torn+paper">
                                                                   <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Torn Paper</span>
                                                                   </div>
 </a>
                                                               </li>
                                                               <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/graphics/game+assets">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/graphics/game+assets">
                                                                   <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Game Assets</span>
                                                                   </div>
 </a>
                                                               </li>
                                                               <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/graphics/logo">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/graphics/logo">
                                                                   <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Logo</span>
                                                                   </div>
 </a>
                                                               </li>
                                                               <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/graphics/dust+overlay">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/graphics/dust+overlay">
                                                                   <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Dust Overlay</span>
                                                                   </div>
 </a>
                                                               </li>
                                                               <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/graphics/gate">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/graphics/gate">
                                                                   <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Gate</span>
                                                                   </div>
@@ -1340,7 +1340,7 @@ Top Graphics Searches
                                                           </div>
                                                         </div>
                                                       </div>
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/curated-collections/exclusive-envato-x-chris-piascik/uONRYJLQT5mtWmhpCO5nng">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/curated-collections/exclusive-envato-x-chris-piascik/uONRYJLQT5mtWmhpCO5nng">
                                                         <div class="iibw2DNu">
                                                           <div class="QejAgNG_ rGep5HSU">
 <img alt="Envato X Chris Piascik" src="https://assets.elements.envato.com/apps/storefront/graphics-ChrisPiascik-Promo-cc0e7a16d85c2a2327d4.avif"/>
@@ -1369,7 +1369,7 @@ Chaotic 70s-inspired fonts &amp; brushes by illustrator Chris
                                       </div>
                                     </div>
                                     <li class="Noa5OylB">
-<button class="NEBoYFW6" data-testid="nav-item" type="button"><span class="_7yoIykb4 DbkD6_G1 hfldU1gb"></span><a href="https://telcovasworld.com/press-release/"><span class="_7yoIykb4 DbkD6_G1 hfldU1gb">KARTUBET88 ONLINE</span></a><span aria-hidden="true" class="XBxg7D2q">
+<button class="NEBoYFW6" data-testid="nav-item" type="button"><span class="_7yoIykb4 DbkD6_G1 hfldU1gb"></span><a href="https://www.telcovasworld.com/press-release/"><span class="_7yoIykb4 DbkD6_G1 hfldU1gb">KARTUBET88 ONLINE</span></a><span aria-hidden="true" class="XBxg7D2q">
                                           <svg class="ovfKxhpl VJ1V6O3f" focusable="false" role="img" style="--color: var(--color-content-secondary, currentColor);" title="chevron-down" viewbox="0 0 24 24">
 <use href="#chevron-down"></use>
                                           </svg>
@@ -1483,63 +1483,63 @@ Chaotic 70s-inspired fonts &amp; brushes by illustrator Chris
                                                   <div class="ES35fwD6">
                                                     <ul class="QejAgNG_ gktLxQxk">
                                                       <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release/">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release/">
                                                           <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 jcI_vEqq Qu5eWXzk">All Photos →</span>
                                                           </div>
 </a>
                                                       </li>
                                                       <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release//background">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release//background">
                                                           <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Background</span>
                                                           </div>
 </a>
                                                       </li>
                                                       <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release//office">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release//office">
                                                           <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Office</span>
                                                           </div>
 </a>
                                                       </li>
                                                       <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release//business">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release//business">
                                                           <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Business</span>
                                                           </div>
 </a>
                                                       </li>
                                                       <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release//sky">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release//sky">
                                                           <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Sky</span>
                                                           </div>
 </a>
                                                       </li>
                                                       <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release//ai">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release//ai">
                                                           <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">AI</span>
                                                           </div>
 </a>
                                                       </li>
                                                       <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release//paper+texture">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release//paper+texture">
                                                           <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Paper Texture</span>
                                                           </div>
 </a>
                                                       </li>
                                                       <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release//beach">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release//beach">
                                                           <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Beach</span>
                                                           </div>
 </a>
                                                       </li>
                                                       <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release//technology">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release//technology">
                                                           <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Technology</span>
                                                           </div>
@@ -1559,56 +1559,56 @@ Top Photo Searches
                                                     </div>
                                                     <ul class="QejAgNG_ gktLxQxk">
                                                       <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release//wallpaper">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release//wallpaper">
                                                           <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Wallpaper</span>
                                                           </div>
 </a>
                                                       </li>
                                                       <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release//animals">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release//animals">
                                                           <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Animals</span>
                                                           </div>
 </a>
                                                       </li>
                                                       <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release//balloon+decoration">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release//balloon+decoration">
                                                           <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Ballon Decoration</span>
                                                           </div>
 </a>
                                                       </li>
                                                       <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release//dog">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release//dog">
                                                           <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Dog</span>
                                                           </div>
 </a>
                                                       </li>
                                                       <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release//food">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release//food">
                                                           <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Food</span>
                                                           </div>
 </a>
                                                       </li>
                                                       <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release//online+video+call">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release//online+video+call">
                                                           <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Online Video Call</span>
                                                           </div>
 </a>
                                                       </li>
                                                       <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release//welcome">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release//welcome">
                                                           <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Welcome</span>
                                                           </div>
 </a>
                                                       </li>
                                                       <li class="vf13pLxh">
-<a class="XnPoMwM8" data-discover="true" href="https://telcovasworld.com/press-release//women">
+<a class="XnPoMwM8" data-discover="true" href="https://www.telcovasworld.com/press-release//women">
                                                           <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo vEfvXUk_ LO3KVcuN">
 <span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Women</span>
                                                           </div>
@@ -1676,7 +1676,7 @@ Top Photo Searches
                                                         <div class="l0z8Gogx akbOyW7N J3nrzrT4">
                                                           <div class="NsWdXpRH o8MJIZ9I x0gFm914">
                                                             <div class="ES35fwD6 hpXGB4LP Z8wCehge ZAaTEPZZ">
-<span class="APSyIadL"><a href="https://telcovasworld.com/press-release/"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">KARTUBET88 LOGIN</span></a></span><span class="TLSDOzq2"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">ID</span></span>
+<span class="APSyIadL"><a href="https://www.telcovasworld.com/press-release/"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">KARTUBET88 LOGIN</span></a></span><span class="TLSDOzq2"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">ID</span></span>
                                                             </div>
                                                           </div>
                                                           <div class="NsWdXpRH o8MJIZ9I vjNqqz_P">
@@ -1748,7 +1748,7 @@ Top Photo Searches
                                       <div class="ES35fwD6 J6W4og9v w9gmKn6x rLny0uwo JgwFOwd5">
                                         <div class="l0z8Gogx gktLxQxk exzsVg0t">
                                           <div aria-label="Logo" class="NsWdXpRH o8MJIZ9I vjNqqz_P">
-<a class="XnPoMwM8" href="https://telcovasworld.com/press-release/">
+<a class="XnPoMwM8" href="https://www.telcovasworld.com/press-release/">
                                               <div class="ES35fwD6 hpXGB4LP Z8wCehge ZAaTEPZZ" data-testid="KARTUBET88-logo">
 <img alt="KARTUBET88" height="32" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoIYr_dt4YTCy0jGqQIcZ3K-90otKwzOqpfglSRODjucLmecRA6OZjZEI_qo8GhUEvKS30Dm7j3tsncfh0i6-B4lTMfeYgJCO5FUAgGejsgKjK33ko4TgjE05hyphenhyphenXs_2g8_0erEukWqGd-nho7g-HY6sPAfoM3s3ByYpivQn4wge1Yv2O_Gf1DL_Q8rFLY/s320/logo-kartubet88-resmi-wow.png"/>
                                               </div>
@@ -1945,47 +1945,47 @@ Top Photo Searches
                                             <ul class="ES35fwD6 jA4sXDPG SHv85Oe2 GjgsucRA uedkJzta">
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to All Video Templates →" data-discover="true" data-testid="all-video-templates-nav-link" href="https://telcovasworld.com/press-release/"><span class="_7yoIykb4 jcI_vEqq Qu5eWXzk">All Video Templates →</span></a>
+<a aria-label="Navigate to All Video Templates →" data-discover="true" data-testid="all-video-templates-nav-link" href="https://www.telcovasworld.com/press-release/"><span class="_7yoIykb4 jcI_vEqq Qu5eWXzk">All Video Templates →</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Broadcast Packages" data-discover="true" data-testid="broadcast-packages-nav-link" href="https://telcovasworld.com/press-release//broadcast-packages"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Broadcast Packages</span></a>
+<a aria-label="Navigate to Broadcast Packages" data-discover="true" data-testid="broadcast-packages-nav-link" href="https://www.telcovasworld.com/press-release//broadcast-packages"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Broadcast Packages</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Elements" data-discover="true" data-testid="elements-nav-link" href="https://telcovasworld.com/press-release//elements"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Elements</span></a>
+<a aria-label="Navigate to Elements" data-discover="true" data-testid="elements-nav-link" href="https://www.telcovasworld.com/press-release//elements"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Elements</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Logo Reveals" data-discover="true" data-testid="logo-reveals-nav-link" href="https://telcovasworld.com/press-release//logo-stings"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Logo Reveals</span></a>
+<a aria-label="Navigate to Logo Reveals" data-discover="true" data-testid="logo-reveals-nav-link" href="https://www.telcovasworld.com/press-release//logo-stings"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Logo Reveals</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Video Intros" data-discover="true" data-testid="video-intros-nav-link" href="https://telcovasworld.com/press-release//openers"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Video Intros</span></a>
+<a aria-label="Navigate to Video Intros" data-discover="true" data-testid="video-intros-nav-link" href="https://www.telcovasworld.com/press-release//openers"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Video Intros</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Promos" data-discover="true" data-testid="promos-nav-link" href="https://telcovasworld.com/press-release//product-promo"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Promos</span></a>
+<a aria-label="Navigate to Promos" data-discover="true" data-testid="promos-nav-link" href="https://www.telcovasworld.com/press-release//product-promo"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Promos</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Title Sequences" data-discover="true" data-testid="title-sequences-nav-link" href="https://telcovasworld.com/press-release//titles"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Title Sequences</span></a>
+<a aria-label="Navigate to Title Sequences" data-discover="true" data-testid="title-sequences-nav-link" href="https://www.telcovasworld.com/press-release//titles"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Title Sequences</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Infographics" data-discover="true" data-testid="infographics-nav-link" href="https://telcovasworld.com/press-release//infographics"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Infographics</span></a>
+<a aria-label="Navigate to Infographics" data-discover="true" data-testid="infographics-nav-link" href="https://www.telcovasworld.com/press-release//infographics"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Infographics</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Video Displays" data-discover="true" data-testid="video-displays-nav-link" href="https://telcovasworld.com/press-release//video-displays"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Video Displays</span></a>
+<a aria-label="Navigate to Video Displays" data-discover="true" data-testid="video-displays-nav-link" href="https://www.telcovasworld.com/press-release//video-displays"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Video Displays</span></a>
                                                 </div>
                                               </li>
                                             </ul>
@@ -1997,27 +1997,27 @@ Top Photo Searches
                                             <ul class="ES35fwD6 jA4sXDPG SHv85Oe2 GjgsucRA uedkJzta">
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Premiere Pro" data-discover="true" data-testid="premiere-pro-nav-link" href="https://telcovasworld.com/press-release//compatible-with-premiere-pro"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Premiere Pro</span></a>
+<a aria-label="Navigate to Premiere Pro" data-discover="true" data-testid="premiere-pro-nav-link" href="https://www.telcovasworld.com/press-release//compatible-with-premiere-pro"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Premiere Pro</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to After Effects" data-discover="true" data-testid="after-effects-nav-link" href="https://telcovasworld.com/press-release//compatible-with-after-effects"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">After Effects</span></a>
+<a aria-label="Navigate to After Effects" data-discover="true" data-testid="after-effects-nav-link" href="https://www.telcovasworld.com/press-release//compatible-with-after-effects"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">After Effects</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Apple Motion" data-discover="true" data-testid="apple-motion-nav-link" href="https://telcovasworld.com/press-release//compatible-with-apple-motion"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Apple Motion</span></a>
+<a aria-label="Navigate to Apple Motion" data-discover="true" data-testid="apple-motion-nav-link" href="https://www.telcovasworld.com/press-release//compatible-with-apple-motion"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Apple Motion</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Final Cut Pro" data-discover="true" data-testid="final-cut-pro-nav-link" href="https://telcovasworld.com/press-release//compatible-with-final-cut-pro"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Final Cut Pro</span></a>
+<a aria-label="Navigate to Final Cut Pro" data-discover="true" data-testid="final-cut-pro-nav-link" href="https://www.telcovasworld.com/press-release//compatible-with-final-cut-pro"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Final Cut Pro</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to DaVinci Resolve" data-discover="true" data-testid="davinci-resolve-nav-link" href="https://telcovasworld.com/press-release//compatible-with-davinci-resolve"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">DaVinci Resolve</span></a>
+<a aria-label="Navigate to DaVinci Resolve" data-discover="true" data-testid="davinci-resolve-nav-link" href="https://www.telcovasworld.com/press-release//compatible-with-davinci-resolve"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">DaVinci Resolve</span></a>
                                                 </div>
                                               </li>
                                             </ul>
@@ -2029,42 +2029,42 @@ Top Photo Searches
                                             <ul class="ES35fwD6 jA4sXDPG SHv85Oe2 GjgsucRA uedkJzta">
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Logo Animation" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release//logo+animation"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Logo Animation</span></a>
+<a aria-label="Navigate to Logo Animation" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release//logo+animation"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Logo Animation</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Text" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release//text"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Text</span></a>
+<a aria-label="Navigate to Text" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release//text"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Text</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Podcast" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release//podcast"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Podcast</span></a>
+<a aria-label="Navigate to Podcast" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release//podcast"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Podcast</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Mockup" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release//mockup"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Mockup</span></a>
+<a aria-label="Navigate to Mockup" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release//mockup"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Mockup</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Slideshow" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release//slideshow"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Slideshow</span></a>
+<a aria-label="Navigate to Slideshow" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release//slideshow"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Slideshow</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Lower Thirds" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release//lower+thirds"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Lower Thirds</span></a>
+<a aria-label="Navigate to Lower Thirds" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release//lower+thirds"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Lower Thirds</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Trailer" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release//trailer"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Trailer</span></a>
+<a aria-label="Navigate to Trailer" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release//trailer"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Trailer</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Indian Wedding Invitation" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release//indian+wedding+invitation"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Indian Wedding Invitation</span></a>
+<a aria-label="Navigate to Indian Wedding Invitation" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release//indian+wedding+invitation"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Indian Wedding Invitation</span></a>
                                                 </div>
                                               </li>
                                             </ul>
@@ -2104,47 +2104,47 @@ Top Photo Searches
                                             <ul class="ES35fwD6 jA4sXDPG SHv85Oe2 GjgsucRA uedkJzta">
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to All Stock Video →" data-discover="true" data-testid="all-stock-footage-nav-link" href="https://telcovasworld.com/press-release/"><span class="_7yoIykb4 jcI_vEqq Qu5eWXzk">All Stock Video →</span></a>
+<a aria-label="Navigate to All Stock Video →" data-discover="true" data-testid="all-stock-footage-nav-link" href="https://www.telcovasworld.com/press-release/"><span class="_7yoIykb4 jcI_vEqq Qu5eWXzk">All Stock Video →</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Background" data-discover="true" data-testid="background-nav-link" href="https://telcovasworld.com/press-release/stock-video/background"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Background</span></a>
+<a aria-label="Navigate to Background" data-discover="true" data-testid="background-nav-link" href="https://www.telcovasworld.com/press-release/stock-video/background"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Background</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Nature" data-discover="true" data-testid="nature-nav-link" href="https://telcovasworld.com/press-release/stock-video/nature"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Nature</span></a>
+<a aria-label="Navigate to Nature" data-discover="true" data-testid="nature-nav-link" href="https://www.telcovasworld.com/press-release/stock-video/nature"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Nature</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Business" data-discover="true" data-testid="business-nav-link" href="https://telcovasworld.com/press-release/stock-video/business"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Business</span></a>
+<a aria-label="Navigate to Business" data-discover="true" data-testid="business-nav-link" href="https://www.telcovasworld.com/press-release/stock-video/business"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Business</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Woman" data-discover="true" data-testid="woman-nav-link" href="https://telcovasworld.com/press-release/stock-video/woman"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Woman</span></a>
+<a aria-label="Navigate to Woman" data-discover="true" data-testid="woman-nav-link" href="https://www.telcovasworld.com/press-release/stock-video/woman"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Woman</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Technology" data-discover="true" data-testid="technology-nav-link" href="https://telcovasworld.com/press-release/stock-video/technology"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Technology</span></a>
+<a aria-label="Navigate to Technology" data-discover="true" data-testid="technology-nav-link" href="https://www.telcovasworld.com/press-release/stock-video/technology"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Technology</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to People" data-discover="true" data-testid="people-nav-link" href="https://telcovasworld.com/press-release/stock-video/people"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">People</span></a>
+<a aria-label="Navigate to People" data-discover="true" data-testid="people-nav-link" href="https://www.telcovasworld.com/press-release/stock-video/people"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">People</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Man" data-discover="true" data-testid="man-nav-link" href="https://telcovasworld.com/press-release/stock-video/man"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Man</span></a>
+<a aria-label="Navigate to Man" data-discover="true" data-testid="man-nav-link" href="https://www.telcovasworld.com/press-release/stock-video/man"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Man</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Travel" data-discover="true" data-testid="travel-nav-link" href="https://telcovasworld.com/press-release/stock-video/travel"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Travel</span></a>
+<a aria-label="Navigate to Travel" data-discover="true" data-testid="travel-nav-link" href="https://www.telcovasworld.com/press-release/stock-video/travel"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Travel</span></a>
                                                 </div>
                                               </li>
                                             </ul>
@@ -2153,47 +2153,47 @@ Top Photo Searches
                                             <ul class="ES35fwD6 jA4sXDPG SHv85Oe2 GjgsucRA uedkJzta">
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to All Motion Graphics →" data-discover="true" data-testid="all-motion-graphics-nav-link" href="https://telcovasworld.com/press-release/stock-video/motion-graphics"><span class="_7yoIykb4 jcI_vEqq Qu5eWXzk">All Motion Graphics →</span></a>
+<a aria-label="Navigate to All Motion Graphics →" data-discover="true" data-testid="all-motion-graphics-nav-link" href="https://www.telcovasworld.com/press-release/stock-video/motion-graphics"><span class="_7yoIykb4 jcI_vEqq Qu5eWXzk">All Motion Graphics →</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Backgrounds" data-discover="true" data-testid="backgrounds-nav-link" href="https://telcovasworld.com/press-release/stock-video/motion-graphics/backgrounds"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Backgrounds</span></a>
+<a aria-label="Navigate to Backgrounds" data-discover="true" data-testid="backgrounds-nav-link" href="https://www.telcovasworld.com/press-release/stock-video/motion-graphics/backgrounds"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Backgrounds</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Elements" data-discover="true" data-testid="elements-nav-link" href="https://telcovasworld.com/press-release/stock-video/motion-graphics/elements"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Elements</span></a>
+<a aria-label="Navigate to Elements" data-discover="true" data-testid="elements-nav-link" href="https://www.telcovasworld.com/press-release/stock-video/motion-graphics/elements"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Elements</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Animated Infographics" data-discover="true" data-testid="infographics-nav-link" href="https://telcovasworld.com/press-release/stock-video/motion-graphics/infographics"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Animated Infographics</span></a>
+<a aria-label="Navigate to Animated Infographics" data-discover="true" data-testid="infographics-nav-link" href="https://www.telcovasworld.com/press-release/stock-video/motion-graphics/infographics"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Animated Infographics</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Interface Effects" data-discover="true" data-testid="interface-effects-nav-link" href="https://telcovasworld.com/press-release/stock-video/motion-graphics/interface-effects"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Interface Effects</span></a>
+<a aria-label="Navigate to Interface Effects" data-discover="true" data-testid="interface-effects-nav-link" href="https://www.telcovasworld.com/press-release/stock-video/motion-graphics/interface-effects"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Interface Effects</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Overlays" data-discover="true" data-testid="overlays-nav-link" href="https://telcovasworld.com/press-release/stock-video/motion-graphics/overlays"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Overlays</span></a>
+<a aria-label="Navigate to Overlays" data-discover="true" data-testid="overlays-nav-link" href="https://www.telcovasworld.com/press-release/stock-video/motion-graphics/overlays"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Overlays</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Revealer" data-discover="true" data-testid="revealer-nav-link" href="https://telcovasworld.com/press-release/stock-video/motion-graphics/revealer"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Revealer</span></a>
+<a aria-label="Navigate to Revealer" data-discover="true" data-testid="revealer-nav-link" href="https://www.telcovasworld.com/press-release/stock-video/motion-graphics/revealer"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Revealer</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Transitions" data-discover="true" data-testid="transitions-nav-link" href="https://telcovasworld.com/press-release/stock-video/motion-graphics/transitions"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Transitions</span></a>
+<a aria-label="Navigate to Transitions" data-discover="true" data-testid="transitions-nav-link" href="https://www.telcovasworld.com/press-release/stock-video/motion-graphics/transitions"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Transitions</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Lower Thirds" data-discover="true" data-testid="lower-thirds-nav-link" href="https://telcovasworld.com/press-release/stock-video/motion-graphics/lower-thirds"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Lower Thirds</span></a>
+<a aria-label="Navigate to Lower Thirds" data-discover="true" data-testid="lower-thirds-nav-link" href="https://www.telcovasworld.com/press-release/stock-video/motion-graphics/lower-thirds"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Lower Thirds</span></a>
                                                 </div>
                                               </li>
                                             </ul>
@@ -2205,42 +2205,42 @@ Top Photo Searches
                                             <ul class="ES35fwD6 jA4sXDPG SHv85Oe2 GjgsucRA uedkJzta">
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to B-roll" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release/stock-video/b-roll"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">B-roll</span></a>
+<a aria-label="Navigate to B-roll" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release/stock-video/b-roll"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">B-roll</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Resolume" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release/stock-video/resolume"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Resolume</span></a>
+<a aria-label="Navigate to Resolume" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release/stock-video/resolume"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Resolume</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to VJ Loops" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release/stock-video/vj+loops"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">VJ Loops</span></a>
+<a aria-label="Navigate to VJ Loops" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release/stock-video/vj+loops"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">VJ Loops</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Vertical Videos" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release/stock-video/orientation-vertical"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Vertical Videos</span></a>
+<a aria-label="Navigate to Vertical Videos" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release/stock-video/orientation-vertical"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Vertical Videos</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Intro" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release/stock-video/intro"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Intro</span></a>
+<a aria-label="Navigate to Intro" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release/stock-video/intro"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Intro</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Drone" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release/stock-video/drone"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Drone</span></a>
+<a aria-label="Navigate to Drone" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release/stock-video/drone"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Drone</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Green Screen" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release/stock-video/green+screen"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Green Screen</span></a>
+<a aria-label="Navigate to Green Screen" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release/stock-video/green+screen"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Green Screen</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Satisfying" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release/stock-video/satisfying+video"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Satisfying</span></a>
+<a aria-label="Navigate to Satisfying" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release/stock-video/satisfying+video"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Satisfying</span></a>
                                                 </div>
                                               </li>
                                             </ul>
@@ -2280,52 +2280,52 @@ Top Photo Searches
                                             <ul class="ES35fwD6 jA4sXDPG SHv85Oe2 GjgsucRA uedkJzta">
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to All Music →" data-discover="true" data-testid="all-music-nav-link" href="https://telcovasworld.com/press-release/c/audio"><span class="_7yoIykb4 jcI_vEqq Qu5eWXzk">All Music →</span></a>
+<a aria-label="Navigate to All Music →" data-discover="true" data-testid="all-music-nav-link" href="https://www.telcovasworld.com/press-release/c/audio"><span class="_7yoIykb4 jcI_vEqq Qu5eWXzk">All Music →</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Logos and Idents" data-discover="true" data-testid="logos-and-idents-nav-link" href="https://telcovasworld.com/press-release/audio/logos-and-idents"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Logos and Idents</span></a>
+<a aria-label="Navigate to Logos and Idents" data-discover="true" data-testid="logos-and-idents-nav-link" href="https://www.telcovasworld.com/press-release/audio/logos-and-idents"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Logos and Idents</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Background" data-discover="true" data-testid="background-nav-link" href="https://telcovasworld.com/press-release/audio/background+music"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Background</span></a>
+<a aria-label="Navigate to Background" data-discover="true" data-testid="background-nav-link" href="https://www.telcovasworld.com/press-release/audio/background+music"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Background</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Epic" data-discover="true" data-testid="epic-nav-link" href="https://telcovasworld.com/press-release//mood-epic"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Epic</span></a>
+<a aria-label="Navigate to Epic" data-discover="true" data-testid="epic-nav-link" href="https://www.telcovasworld.com/press-release//mood-epic"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Epic</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Upbeat" data-discover="true" data-testid="upbeat-nav-link" href="https://telcovasworld.com/press-release//mood-upbeat"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Upbeat</span></a>
+<a aria-label="Navigate to Upbeat" data-discover="true" data-testid="upbeat-nav-link" href="https://www.telcovasworld.com/press-release//mood-upbeat"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Upbeat</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Corporate" data-discover="true" data-testid="corporate-nav-link" href="https://telcovasworld.com/press-release//genre-corporate"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Corporate</span></a>
+<a aria-label="Navigate to Corporate" data-discover="true" data-testid="corporate-nav-link" href="https://www.telcovasworld.com/press-release//genre-corporate"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Corporate</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Happy" data-discover="true" data-testid="happy-nav-link" href="https://telcovasworld.com/press-release//mood-happy"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Happy</span></a>
+<a aria-label="Navigate to Happy" data-discover="true" data-testid="happy-nav-link" href="https://www.telcovasworld.com/press-release//mood-happy"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Happy</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Rock" data-discover="true" data-testid="rock-nav-link" href="https://telcovasworld.com/press-release//genre-rock"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Rock</span></a>
+<a aria-label="Navigate to Rock" data-discover="true" data-testid="rock-nav-link" href="https://www.telcovasworld.com/press-release//genre-rock"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Rock</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Funk" data-discover="true" data-testid="funk-nav-link" href="https://telcovasworld.com/press-release//genre-funk"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Funk</span></a>
+<a aria-label="Navigate to Funk" data-discover="true" data-testid="funk-nav-link" href="https://www.telcovasworld.com/press-release//genre-funk"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Funk</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Intro" data-discover="true" data-testid="intro-nav-link" href="https://telcovasworld.com/press-release/audio/intro"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Intro</span></a>
+<a aria-label="Navigate to Intro" data-discover="true" data-testid="intro-nav-link" href="https://www.telcovasworld.com/press-release/audio/intro"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Intro</span></a>
                                                 </div>
                                               </li>
                                             </ul>
@@ -2334,47 +2334,47 @@ Top Photo Searches
                                             <ul class="ES35fwD6 jA4sXDPG SHv85Oe2 GjgsucRA uedkJzta">
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to All Sound Effects →" data-discover="true" data-testid="all-sound-effects-nav-link" href="https://telcovasworld.com/press-release/sound-effects"><span class="_7yoIykb4 jcI_vEqq Qu5eWXzk">All Sound Effects →</span></a>
+<a aria-label="Navigate to All Sound Effects →" data-discover="true" data-testid="all-sound-effects-nav-link" href="https://www.telcovasworld.com/press-release/sound-effects"><span class="_7yoIykb4 jcI_vEqq Qu5eWXzk">All Sound Effects →</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Gaming" data-discover="true" data-testid="gaming-nav-link" href="https://telcovasworld.com/press-release/sound-effects/game-sounds"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Gaming</span></a>
+<a aria-label="Navigate to Gaming" data-discover="true" data-testid="gaming-nav-link" href="https://www.telcovasworld.com/press-release/sound-effects/game-sounds"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Gaming</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Transitions and Movement" data-discover="true" data-testid="transitions-movement-nav-link" href="https://telcovasworld.com/press-release/sound-effects/transitions-and-movement"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Transitions and Movement</span></a>
+<a aria-label="Navigate to Transitions and Movement" data-discover="true" data-testid="transitions-movement-nav-link" href="https://www.telcovasworld.com/press-release/sound-effects/transitions-and-movement"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Transitions and Movement</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Domestic" data-discover="true" data-testid="domestic-nav-link" href="https://telcovasworld.com/press-release/sound-effects/domestic-sounds"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Domestic</span></a>
+<a aria-label="Navigate to Domestic" data-discover="true" data-testid="domestic-nav-link" href="https://www.telcovasworld.com/press-release/sound-effects/domestic-sounds"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Domestic</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Human" data-discover="true" data-testid="human-nav-link" href="https://telcovasworld.com/press-release/sound-effects/human-sounds"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Human</span></a>
+<a aria-label="Navigate to Human" data-discover="true" data-testid="human-nav-link" href="https://www.telcovasworld.com/press-release/sound-effects/human-sounds"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Human</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Urban" data-discover="true" data-testid="urban-nav-link" href="https://telcovasworld.com/press-release/sound-effects/urban-sounds"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Urban</span></a>
+<a aria-label="Navigate to Urban" data-discover="true" data-testid="urban-nav-link" href="https://www.telcovasworld.com/press-release/sound-effects/urban-sounds"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Urban</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Nature" data-discover="true" data-testid="nature-nav-link" href="https://telcovasworld.com/press-release/sound-effects/nature-sounds"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Nature</span></a>
+<a aria-label="Navigate to Nature" data-discover="true" data-testid="nature-nav-link" href="https://www.telcovasworld.com/press-release/sound-effects/nature-sounds"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Nature</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Futuristic" data-discover="true" data-testid="futuristic-nav-link" href="https://telcovasworld.com/press-release/sound-effects/futuristic-sounds"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Futuristic</span></a>
+<a aria-label="Navigate to Futuristic" data-discover="true" data-testid="futuristic-nav-link" href="https://www.telcovasworld.com/press-release/sound-effects/futuristic-sounds"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Futuristic</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Interface" data-discover="true" data-testid="interface-nav-link" href="https://telcovasworld.com/press-release/sound-effects/interface-sounds"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Interface</span></a>
+<a aria-label="Navigate to Interface" data-discover="true" data-testid="interface-nav-link" href="https://www.telcovasworld.com/press-release/sound-effects/interface-sounds"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Interface</span></a>
                                                 </div>
                                               </li>
                                             </ul>
@@ -2386,42 +2386,42 @@ Top Photo Searches
                                             <ul class="ES35fwD6 jA4sXDPG SHv85Oe2 GjgsucRA uedkJzta">
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Movie" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release/audio/movie"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Movie</span></a>
+<a aria-label="Navigate to Movie" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release/audio/movie"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Movie</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Podcast Intro" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release/audio/podcast+intro+music"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Podcast Intro</span></a>
+<a aria-label="Navigate to Podcast Intro" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release/audio/podcast+intro+music"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Podcast Intro</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Happy Birthday" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release/audio/happy+birthday"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Happy Birthday</span></a>
+<a aria-label="Navigate to Happy Birthday" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release/audio/happy+birthday"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Happy Birthday</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Instagram Reel" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release/audio/instagram+reel"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Instagram Reel</span></a>
+<a aria-label="Navigate to Instagram Reel" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release/audio/instagram+reel"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Instagram Reel</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Devotional" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release/audio/devotional+music"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Devotional</span></a>
+<a aria-label="Navigate to Devotional" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release/audio/devotional+music"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Devotional</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Islamic Intro" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release/audio/islamic+intro"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Islamic Intro</span></a>
+<a aria-label="Navigate to Islamic Intro" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release/audio/islamic+intro"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Islamic Intro</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Military Drum" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release/audio/military+drum"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Military Drum</span></a>
+<a aria-label="Navigate to Military Drum" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release/audio/military+drum"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Military Drum</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Breaking News Intro" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release/audio/breaking+news+intro"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Breaking News Intro</span></a>
+<a aria-label="Navigate to Breaking News Intro" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release/audio/breaking+news+intro"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Breaking News Intro</span></a>
                                                 </div>
                                               </li>
                                             </ul>
@@ -2461,37 +2461,37 @@ Top Photo Searches
                                             <ul class="ES35fwD6 jA4sXDPG SHv85Oe2 GjgsucRA uedkJzta">
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to All Graphics →" data-discover="true" data-testid="all-graphics-nav-link" href="https://telcovasworld.com/press-release/graphics"><span class="_7yoIykb4 jcI_vEqq Qu5eWXzk">All Graphics →</span></a>
+<a aria-label="Navigate to All Graphics →" data-discover="true" data-testid="all-graphics-nav-link" href="https://www.telcovasworld.com/press-release/graphics"><span class="_7yoIykb4 jcI_vEqq Qu5eWXzk">All Graphics →</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Objects" data-discover="true" data-testid="objects-nav-link" href="https://telcovasworld.com/press-release/graphics/objects"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Objects</span></a>
+<a aria-label="Navigate to Objects" data-discover="true" data-testid="objects-nav-link" href="https://www.telcovasworld.com/press-release/graphics/objects"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Objects</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Illustrations" data-discover="true" data-testid="illustrations-nav-link" href="https://telcovasworld.com/press-release/graphics/illustrations"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Illustrations</span></a>
+<a aria-label="Navigate to Illustrations" data-discover="true" data-testid="illustrations-nav-link" href="https://www.telcovasworld.com/press-release/graphics/illustrations"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Illustrations</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Icons" data-discover="true" data-testid="icons-nav-link" href="https://telcovasworld.com/press-release/graphics/icons"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Icons</span></a>
+<a aria-label="Navigate to Icons" data-discover="true" data-testid="icons-nav-link" href="https://www.telcovasworld.com/press-release/graphics/icons"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Icons</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Backgrounds" data-discover="true" data-testid="backgrounds-nav-link" href="https://telcovasworld.com/press-release/graphics/backgrounds"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Backgrounds</span></a>
+<a aria-label="Navigate to Backgrounds" data-discover="true" data-testid="backgrounds-nav-link" href="https://www.telcovasworld.com/press-release/graphics/backgrounds"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Backgrounds</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Textures" data-discover="true" data-testid="textures-nav-link" href="https://telcovasworld.com/press-release/graphics/textures"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Textures</span></a>
+<a aria-label="Navigate to Textures" data-discover="true" data-testid="textures-nav-link" href="https://www.telcovasworld.com/press-release/graphics/textures"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Textures</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Patterns" data-discover="true" data-testid="patterns-nav-link" href="https://telcovasworld.com/press-release/graphics/patterns"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Patterns</span></a>
+<a aria-label="Navigate to Patterns" data-discover="true" data-testid="patterns-nav-link" href="https://www.telcovasworld.com/press-release/graphics/patterns"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Patterns</span></a>
                                                 </div>
                                               </li>
                                             </ul>
@@ -2500,27 +2500,27 @@ Top Photo Searches
                                             <ul class="ES35fwD6 jA4sXDPG SHv85Oe2 GjgsucRA uedkJzta">
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to All Add-ons →" data-discover="true" data-testid="all-add-ons-nav-link" href="https://telcovasworld.com/press-release/add-ons"><span class="_7yoIykb4 jcI_vEqq Qu5eWXzk">All Add-ons →</span></a>
+<a aria-label="Navigate to All Add-ons →" data-discover="true" data-testid="all-add-ons-nav-link" href="https://www.telcovasworld.com/press-release/add-ons"><span class="_7yoIykb4 jcI_vEqq Qu5eWXzk">All Add-ons →</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Actions and Presets" data-discover="true" data-testid="actions-and-presets-nav-link" href="https://telcovasworld.com/press-release/add-ons/actions-and-presets"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Actions and Presets</span></a>
+<a aria-label="Navigate to Actions and Presets" data-discover="true" data-testid="actions-and-presets-nav-link" href="https://www.telcovasworld.com/press-release/add-ons/actions-and-presets"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Actions and Presets</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Brushes" data-discover="true" data-testid="brushes-nav-link" href="https://telcovasworld.com/press-release/add-ons/brushes"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Brushes</span></a>
+<a aria-label="Navigate to Brushes" data-discover="true" data-testid="brushes-nav-link" href="https://www.telcovasworld.com/press-release/add-ons/brushes"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Brushes</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Layer Styles" data-discover="true" data-testid="layer-styles-nav-link" href="https://telcovasworld.com/press-release/add-ons/layer-styles"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Layer Styles</span></a>
+<a aria-label="Navigate to Layer Styles" data-discover="true" data-testid="layer-styles-nav-link" href="https://www.telcovasworld.com/press-release/add-ons/layer-styles"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Layer Styles</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Palettes &amp; Gradient Maps" data-discover="true" data-testid="palettes-and-gradient-maps-nav-link" href="https://telcovasworld.com/press-release/add-ons/palettes"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Palettes &amp; Gradient Maps</span></a>
+<a aria-label="Navigate to Palettes &amp; Gradient Maps" data-discover="true" data-testid="palettes-and-gradient-maps-nav-link" href="https://www.telcovasworld.com/press-release/add-ons/palettes"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Palettes &amp; Gradient Maps</span></a>
                                                 </div>
                                               </li>
                                             </ul>
@@ -2532,27 +2532,27 @@ Top Photo Searches
                                             <ul class="ES35fwD6 jA4sXDPG SHv85Oe2 GjgsucRA uedkJzta">
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Adobe Photoshop" data-discover="true" data-testid="adobe-photoshop-nav-link" href="https://telcovasworld.com/press-release/graphics/compatible-with-adobe-photoshop"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Adobe Photoshop</span></a>
+<a aria-label="Navigate to Adobe Photoshop" data-discover="true" data-testid="adobe-photoshop-nav-link" href="https://www.telcovasworld.com/press-release/graphics/compatible-with-adobe-photoshop"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Adobe Photoshop</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Adobe Illustrator" data-discover="true" data-testid="adobe-illustrator-nav-link" href="https://telcovasworld.com/press-release/graphics/compatible-with-adobe-illustrator"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Adobe Illustrator</span></a>
+<a aria-label="Navigate to Adobe Illustrator" data-discover="true" data-testid="adobe-illustrator-nav-link" href="https://www.telcovasworld.com/press-release/graphics/compatible-with-adobe-illustrator"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Adobe Illustrator</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Figma" data-discover="true" data-testid="figma-nav-link" href="https://telcovasworld.com/press-release/graphics/compatible-with-figma"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Figma</span></a>
+<a aria-label="Navigate to Figma" data-discover="true" data-testid="figma-nav-link" href="https://www.telcovasworld.com/press-release/graphics/compatible-with-figma"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Figma</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Sketch" data-discover="true" data-testid="sketch-nav-link" href="https://telcovasworld.com/press-release/graphics/compatible-with-sketch"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Sketch</span></a>
+<a aria-label="Navigate to Sketch" data-discover="true" data-testid="sketch-nav-link" href="https://www.telcovasworld.com/press-release/graphics/compatible-with-sketch"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Sketch</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Affinity Designer" data-discover="true" data-testid="affinity-designer-nav-link" href="https://telcovasworld.com/press-release/graphics/compatible-with-affinity-designer"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Affinity Designer</span></a>
+<a aria-label="Navigate to Affinity Designer" data-discover="true" data-testid="affinity-designer-nav-link" href="https://www.telcovasworld.com/press-release/graphics/compatible-with-affinity-designer"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Affinity Designer</span></a>
                                                 </div>
                                               </li>
                                             </ul>
@@ -2564,42 +2564,42 @@ Top Photo Searches
                                             <ul class="ES35fwD6 jA4sXDPG SHv85Oe2 GjgsucRA uedkJzta">
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Food Icons" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release/graphics/icons/food"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Food Icons</span></a>
+<a aria-label="Navigate to Food Icons" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release/graphics/icons/food"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Food Icons</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Overlay" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release/graphics/overlay"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Overlay</span></a>
+<a aria-label="Navigate to Overlay" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release/graphics/overlay"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Overlay</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to YouTube" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release/graphics/youtube"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">YouTube</span></a>
+<a aria-label="Navigate to YouTube" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release/graphics/youtube"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">YouTube</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Torn Paper" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release/graphics/torn+paper"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Torn Paper</span></a>
+<a aria-label="Navigate to Torn Paper" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release/graphics/torn+paper"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Torn Paper</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Game Assets" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release/graphics/game+assets"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Game Assets</span></a>
+<a aria-label="Navigate to Game Assets" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release/graphics/game+assets"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Game Assets</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Logo" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release/graphics/logo"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Logo</span></a>
+<a aria-label="Navigate to Logo" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release/graphics/logo"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Logo</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Dust Overlay" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release/graphics/dust+overlay"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Dust Overlay</span></a>
+<a aria-label="Navigate to Dust Overlay" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release/graphics/dust+overlay"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Dust Overlay</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Gate" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release/graphics/gate"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Gate</span></a>
+<a aria-label="Navigate to Gate" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release/graphics/gate"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Gate</span></a>
                                                 </div>
                                               </li>
                                             </ul>
@@ -2639,47 +2639,47 @@ Top Photo Searches
                                             <ul class="ES35fwD6 jA4sXDPG SHv85Oe2 GjgsucRA uedkJzta">
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to All Graphic Templates →" data-discover="true" data-testid="all-designs-nav-link" href="https://telcovasworld.com/press-release/"><span class="_7yoIykb4 jcI_vEqq Qu5eWXzk">All Graphic Templates →</span></a>
+<a aria-label="Navigate to All Graphic Templates →" data-discover="true" data-testid="all-designs-nav-link" href="https://www.telcovasworld.com/press-release/"><span class="_7yoIykb4 jcI_vEqq Qu5eWXzk">All Graphic Templates →</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Printable Templates" data-discover="true" data-testid="printable-templates-nav-link" href="https://telcovasworld.com/press-release//print-templates"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Printable Templates</span></a>
+<a aria-label="Navigate to Printable Templates" data-discover="true" data-testid="printable-templates-nav-link" href="https://www.telcovasworld.com/press-release//print-templates"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Printable Templates</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Product Mockups" data-discover="true" data-testid="product-mockups-nav-link" href="https://telcovasworld.com/press-release/"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Product Mockups</span></a>
+<a aria-label="Navigate to Product Mockups" data-discover="true" data-testid="product-mockups-nav-link" href="https://www.telcovasworld.com/press-release/"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Product Mockups</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Social Media" data-discover="true" data-testid="social-media-nav-link" href="https://telcovasworld.com/press-release//social-media"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Social Media</span></a>
+<a aria-label="Navigate to Social Media" data-discover="true" data-testid="social-media-nav-link" href="https://www.telcovasworld.com/press-release//social-media"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Social Media</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Websites" data-discover="true" data-testid="websites-nav-link" href="https://telcovasworld.com/press-release//websites"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Websites</span></a>
+<a aria-label="Navigate to Websites" data-discover="true" data-testid="websites-nav-link" href="https://www.telcovasworld.com/press-release//websites"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Websites</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to UX/UI Toolkits" data-discover="true" data-testid="ux-ui-toolkits-nav-link" href="https://telcovasworld.com/press-release//ux-and-ui-kits"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">UX/UI Toolkits</span></a>
+<a aria-label="Navigate to UX/UI Toolkits" data-discover="true" data-testid="ux-ui-toolkits-nav-link" href="https://www.telcovasworld.com/press-release//ux-and-ui-kits"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">UX/UI Toolkits</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Infographics" data-discover="true" data-testid="infographics-nav-link" href="https://telcovasworld.com/press-release//infographics"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Infographics</span></a>
+<a aria-label="Navigate to Infographics" data-discover="true" data-testid="infographics-nav-link" href="https://www.telcovasworld.com/press-release//infographics"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Infographics</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Logos" data-discover="true" data-testid="logos-nav-link" href="https://telcovasworld.com/press-release//logos"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Logos</span></a>
+<a aria-label="Navigate to Logos" data-discover="true" data-testid="logos-nav-link" href="https://www.telcovasworld.com/press-release//logos"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Logos</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Scene Generators" data-discover="true" data-testid="scene-generators-nav-link" href="https://telcovasworld.com/press-release//scene-generators"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Scene Generators</span></a>
+<a aria-label="Navigate to Scene Generators" data-discover="true" data-testid="scene-generators-nav-link" href="https://www.telcovasworld.com/press-release//scene-generators"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Scene Generators</span></a>
                                                 </div>
                                               </li>
                                             </ul>
@@ -2688,47 +2688,47 @@ Top Photo Searches
                                             <ul class="ES35fwD6 jA4sXDPG SHv85Oe2 GjgsucRA uedkJzta">
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to All Presentations →" data-discover="true" data-testid="all-presentations-nav-link" href="https://telcovasworld.com/press-release/presentation-templates"><span class="_7yoIykb4 jcI_vEqq Qu5eWXzk">All Presentations →</span></a>
+<a aria-label="Navigate to All Presentations →" data-discover="true" data-testid="all-presentations-nav-link" href="https://www.telcovasworld.com/press-release/presentation-templates"><span class="_7yoIykb4 jcI_vEqq Qu5eWXzk">All Presentations →</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Business" data-discover="true" data-testid="business-nav-link" href="https://telcovasworld.com/press-release/presentation-templates/business"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Business</span></a>
+<a aria-label="Navigate to Business" data-discover="true" data-testid="business-nav-link" href="https://www.telcovasworld.com/press-release/presentation-templates/business"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Business</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Education" data-discover="true" data-testid="education-nav-link" href="https://telcovasworld.com/press-release/presentation-templates/education"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Education</span></a>
+<a aria-label="Navigate to Education" data-discover="true" data-testid="education-nav-link" href="https://www.telcovasworld.com/press-release/presentation-templates/education"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Education</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Marketing" data-discover="true" data-testid="marketing-nav-link" href="https://telcovasworld.com/press-release/presentation-templates/marketing"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Marketing</span></a>
+<a aria-label="Navigate to Marketing" data-discover="true" data-testid="marketing-nav-link" href="https://www.telcovasworld.com/press-release/presentation-templates/marketing"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Marketing</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Technology" data-discover="true" data-testid="technology-nav-link" href="https://telcovasworld.com/press-release/presentation-templates/technology"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Technology</span></a>
+<a aria-label="Navigate to Technology" data-discover="true" data-testid="technology-nav-link" href="https://www.telcovasworld.com/press-release/presentation-templates/technology"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Technology</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Medical" data-discover="true" data-testid="medical-nav-link" href="https://telcovasworld.com/press-release/presentation-templates/medical"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Medical</span></a>
+<a aria-label="Navigate to Medical" data-discover="true" data-testid="medical-nav-link" href="https://www.telcovasworld.com/press-release/presentation-templates/medical"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Medical</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Pitch" data-discover="true" data-testid="pitch-nav-link" href="https://telcovasworld.com/press-release/presentation-templates/pitch"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Pitch</span></a>
+<a aria-label="Navigate to Pitch" data-discover="true" data-testid="pitch-nav-link" href="https://www.telcovasworld.com/press-release/presentation-templates/pitch"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Pitch</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Travel" data-discover="true" data-testid="travel-nav-link" href="https://telcovasworld.com/press-release/presentation-templates/travel"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Travel</span></a>
+<a aria-label="Navigate to Travel" data-discover="true" data-testid="travel-nav-link" href="https://www.telcovasworld.com/press-release/presentation-templates/travel"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Travel</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Backgrounds" data-discover="true" data-testid="backgrounds-nav-link" href="https://telcovasworld.com/press-release/presentation-templates/backgrounds"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Backgrounds</span></a>
+<a aria-label="Navigate to Backgrounds" data-discover="true" data-testid="backgrounds-nav-link" href="https://www.telcovasworld.com/press-release/presentation-templates/backgrounds"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Backgrounds</span></a>
                                                 </div>
                                               </li>
                                             </ul>
@@ -2740,42 +2740,42 @@ Top Photo Searches
                                             <ul class="ES35fwD6 jA4sXDPG SHv85Oe2 GjgsucRA uedkJzta">
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Adobe Photoshop" data-discover="true" data-testid="adobe-photoshop-nav-link" href="https://telcovasworld.com/press-release/"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Adobe Photoshop</span></a>
+<a aria-label="Navigate to Adobe Photoshop" data-discover="true" data-testid="adobe-photoshop-nav-link" href="https://www.telcovasworld.com/press-release/"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Adobe Photoshop</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Adobe Illustrator" data-discover="true" data-testid="adobe-illustrator-nav-link" href="https://telcovasworld.com/press-release//compatible-with-adobe-illustrator"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Adobe Illustrator</span></a>
+<a aria-label="Navigate to Adobe Illustrator" data-discover="true" data-testid="adobe-illustrator-nav-link" href="https://www.telcovasworld.com/press-release//compatible-with-adobe-illustrator"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Adobe Illustrator</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Adobe InDesign" data-discover="true" data-testid="adobe-indesign-nav-link" href="https://telcovasworld.com/press-release//compatible-with-adobe-indesign"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Adobe InDesign</span></a>
+<a aria-label="Navigate to Adobe InDesign" data-discover="true" data-testid="adobe-indesign-nav-link" href="https://www.telcovasworld.com/press-release//compatible-with-adobe-indesign"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Adobe InDesign</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Figma" data-discover="true" data-testid="figma-nav-link" href="https://telcovasworld.com/press-release//compatible-with-figma"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Figma</span></a>
+<a aria-label="Navigate to Figma" data-discover="true" data-testid="figma-nav-link" href="https://www.telcovasworld.com/press-release//compatible-with-figma"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Figma</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Canva" data-discover="true" data-testid="canva-nav-link" href="https://telcovasworld.com/press-release//compatible-with-canva"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Canva</span></a>
+<a aria-label="Navigate to Canva" data-discover="true" data-testid="canva-nav-link" href="https://www.telcovasworld.com/press-release//compatible-with-canva"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Canva</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Microsoft Word" data-discover="true" data-testid="microsoft-word-nav-link" href="https://telcovasworld.com/press-release//compatible-with-microsoft-word"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Microsoft Word</span></a>
+<a aria-label="Navigate to Microsoft Word" data-discover="true" data-testid="microsoft-word-nav-link" href="https://www.telcovasworld.com/press-release//compatible-with-microsoft-word"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Microsoft Word</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to PowerPoint" data-discover="true" data-testid="powerpoint-nav-link" href="https://telcovasworld.com/press-release/presentation-templates/compatible-with-powerpoint"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">PowerPoint</span></a>
+<a aria-label="Navigate to PowerPoint" data-discover="true" data-testid="powerpoint-nav-link" href="https://www.telcovasworld.com/press-release/presentation-templates/compatible-with-powerpoint"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">PowerPoint</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Keynote" data-discover="true" data-testid="keynote-nav-link" href="https://telcovasworld.com/press-release/presentation-templates/compatible-with-keynote"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Keynote</span></a>
+<a aria-label="Navigate to Keynote" data-discover="true" data-testid="keynote-nav-link" href="https://www.telcovasworld.com/press-release/presentation-templates/compatible-with-keynote"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Keynote</span></a>
                                                 </div>
                                               </li>
                                             </ul>
@@ -2787,42 +2787,42 @@ Top Photo Searches
                                             <ul class="ES35fwD6 jA4sXDPG SHv85Oe2 GjgsucRA uedkJzta">
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Business Card" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release//business+card"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Business Card</span></a>
+<a aria-label="Navigate to Business Card" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release//business+card"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Business Card</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Brochure" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release//brochure"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Brochure</span></a>
+<a aria-label="Navigate to Brochure" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release//brochure"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Brochure</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Flyer" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release//flyer"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Flyer</span></a>
+<a aria-label="Navigate to Flyer" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release//flyer"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Flyer</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Resume" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release//resume"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Resume</span></a>
+<a aria-label="Navigate to Resume" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release//resume"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Resume</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Wedding" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release//wedding"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Wedding</span></a>
+<a aria-label="Navigate to Wedding" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release//wedding"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Wedding</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Branding Presentation" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release/presentation-templates/branding"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Branding Presentation</span></a>
+<a aria-label="Navigate to Branding Presentation" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release/presentation-templates/branding"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Branding Presentation</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Mobile App Presentation" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release/presentation-templates/mobile+app"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Mobile App Presentation</span></a>
+<a aria-label="Navigate to Mobile App Presentation" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release/presentation-templates/mobile+app"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Mobile App Presentation</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Cryptocurrency Presentation" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release/presentation-templates/cryptocurrency"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Cryptocurrency Presentation</span></a>
+<a aria-label="Navigate to Cryptocurrency Presentation" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release/presentation-templates/cryptocurrency"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Cryptocurrency Presentation</span></a>
                                                 </div>
                                               </li>
                                             </ul>
@@ -2862,47 +2862,47 @@ Top Photo Searches
                                             <ul class="ES35fwD6 jA4sXDPG SHv85Oe2 GjgsucRA uedkJzta">
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to All Photos →" data-discover="true" data-testid="all-photos-nav-link" href="https://telcovasworld.com/press-release/"><span class="_7yoIykb4 jcI_vEqq Qu5eWXzk">All Photos →</span></a>
+<a aria-label="Navigate to All Photos →" data-discover="true" data-testid="all-photos-nav-link" href="https://www.telcovasworld.com/press-release/"><span class="_7yoIykb4 jcI_vEqq Qu5eWXzk">All Photos →</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Background" data-discover="true" data-testid="background-nav-link" href="https://telcovasworld.com/press-release//background"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Background</span></a>
+<a aria-label="Navigate to Background" data-discover="true" data-testid="background-nav-link" href="https://www.telcovasworld.com/press-release//background"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Background</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Office" data-discover="true" data-testid="office-nav-link" href="https://telcovasworld.com/press-release//office"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Office</span></a>
+<a aria-label="Navigate to Office" data-discover="true" data-testid="office-nav-link" href="https://www.telcovasworld.com/press-release//office"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Office</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Business" data-discover="true" data-testid="business-nav-link" href="https://telcovasworld.com/press-release//business"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Business</span></a>
+<a aria-label="Navigate to Business" data-discover="true" data-testid="business-nav-link" href="https://www.telcovasworld.com/press-release//business"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Business</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Sky" data-discover="true" data-testid="sky-nav-link" href="https://telcovasworld.com/press-release//sky"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Sky</span></a>
+<a aria-label="Navigate to Sky" data-discover="true" data-testid="sky-nav-link" href="https://www.telcovasworld.com/press-release//sky"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Sky</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to AI" data-discover="true" data-testid="ai-nav-link" href="https://telcovasworld.com/press-release//ai"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">AI</span></a>
+<a aria-label="Navigate to AI" data-discover="true" data-testid="ai-nav-link" href="https://www.telcovasworld.com/press-release//ai"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">AI</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Paper Texture" data-discover="true" data-testid="paper-texture-nav-link" href="https://telcovasworld.com/press-release//paper+texture"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Paper Texture</span></a>
+<a aria-label="Navigate to Paper Texture" data-discover="true" data-testid="paper-texture-nav-link" href="https://www.telcovasworld.com/press-release//paper+texture"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Paper Texture</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Beach" data-discover="true" data-testid="beach-nav-link" href="https://telcovasworld.com/press-release//beach"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Beach</span></a>
+<a aria-label="Navigate to Beach" data-discover="true" data-testid="beach-nav-link" href="https://www.telcovasworld.com/press-release//beach"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Beach</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Technology" data-discover="true" data-testid="technology-nav-link" href="https://telcovasworld.com/press-release//technology"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Technology</span></a>
+<a aria-label="Navigate to Technology" data-discover="true" data-testid="technology-nav-link" href="https://www.telcovasworld.com/press-release//technology"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Technology</span></a>
                                                 </div>
                                               </li>
                                             </ul>
@@ -2914,42 +2914,42 @@ Top Photo Searches
                                             <ul class="ES35fwD6 jA4sXDPG SHv85Oe2 GjgsucRA uedkJzta">
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Wallpaper" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release//wallpaper"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Wallpaper</span></a>
+<a aria-label="Navigate to Wallpaper" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release//wallpaper"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Wallpaper</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Animals" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release//animals"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Animals</span></a>
+<a aria-label="Navigate to Animals" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release//animals"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Animals</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Ballon Decoration" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release//balloon+decoration"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Ballon Decoration</span></a>
+<a aria-label="Navigate to Ballon Decoration" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release//balloon+decoration"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Ballon Decoration</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Dog" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release//dog"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Dog</span></a>
+<a aria-label="Navigate to Dog" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release//dog"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Dog</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Food" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release//food"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Food</span></a>
+<a aria-label="Navigate to Food" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release//food"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Food</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Online Video Call" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release//online+video+call"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Online Video Call</span></a>
+<a aria-label="Navigate to Online Video Call" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release//online+video+call"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Online Video Call</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Welcome" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release//welcome"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Welcome</span></a>
+<a aria-label="Navigate to Welcome" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release//welcome"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Welcome</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Women" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release//women"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Women</span></a>
+<a aria-label="Navigate to Women" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release//women"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Women</span></a>
                                                 </div>
                                               </li>
                                             </ul>
@@ -2989,22 +2989,22 @@ Top Photo Searches
                                             <ul class="ES35fwD6 jA4sXDPG SHv85Oe2 GjgsucRA uedkJzta">
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to All 3D →" data-discover="true" data-testid="all-3d-nav-link" href="https://telcovasworld.com/press-release/c/3d"><span class="_7yoIykb4 jcI_vEqq Qu5eWXzk">All 3D →</span></a>
+<a aria-label="Navigate to All 3D →" data-discover="true" data-testid="all-3d-nav-link" href="https://www.telcovasworld.com/press-release/c/3d"><span class="_7yoIykb4 jcI_vEqq Qu5eWXzk">All 3D →</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Models" data-discover="true" data-testid="models-nav-link" href="https://telcovasworld.com/press-release/3d/models"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Models</span></a>
+<a aria-label="Navigate to Models" data-discover="true" data-testid="models-nav-link" href="https://www.telcovasworld.com/press-release/3d/models"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Models</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Templates" data-discover="true" data-testid="templates-nav-link" href="https://telcovasworld.com/press-release/3d/templates"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Templates</span></a>
+<a aria-label="Navigate to Templates" data-discover="true" data-testid="templates-nav-link" href="https://www.telcovasworld.com/press-release/3d/templates"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Templates</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Renders" data-discover="true" data-testid="renders-nav-link" href="https://telcovasworld.com/press-release/3d/renders"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Renders</span></a>
+<a aria-label="Navigate to Renders" data-discover="true" data-testid="renders-nav-link" href="https://www.telcovasworld.com/press-release/3d/renders"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Renders</span></a>
                                                 </div>
                                               </li>
                                             </ul>
@@ -3016,42 +3016,42 @@ Top Photo Searches
                                             <ul class="ES35fwD6 jA4sXDPG SHv85Oe2 GjgsucRA uedkJzta">
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Nature" data-discover="true" data-testid="nature-nav-link" href="https://telcovasworld.com/press-release/3d/theme-nature"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Nature</span></a>
+<a aria-label="Navigate to Nature" data-discover="true" data-testid="nature-nav-link" href="https://www.telcovasworld.com/press-release/3d/theme-nature"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Nature</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Abstract" data-discover="true" data-testid="abstract-nav-link" href="https://telcovasworld.com/press-release/3d/theme-abstract"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Abstract</span></a>
+<a aria-label="Navigate to Abstract" data-discover="true" data-testid="abstract-nav-link" href="https://www.telcovasworld.com/press-release/3d/theme-abstract"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Abstract</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Adventure" data-discover="true" data-testid="adventure-nav-link" href="https://telcovasworld.com/press-release/3d/theme-adventure"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Adventure</span></a>
+<a aria-label="Navigate to Adventure" data-discover="true" data-testid="adventure-nav-link" href="https://www.telcovasworld.com/press-release/3d/theme-adventure"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Adventure</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Sports" data-discover="true" data-testid="sports-nav-link" href="https://telcovasworld.com/press-release/3d/theme-sports"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Sports</span></a>
+<a aria-label="Navigate to Sports" data-discover="true" data-testid="sports-nav-link" href="https://www.telcovasworld.com/press-release/3d/theme-sports"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Sports</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Transportation" data-discover="true" data-testid="transportation-nav-link" href="https://telcovasworld.com/press-release/3d/theme-transportation"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Transportation</span></a>
+<a aria-label="Navigate to Transportation" data-discover="true" data-testid="transportation-nav-link" href="https://www.telcovasworld.com/press-release/3d/theme-transportation"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Transportation</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Science" data-discover="true" data-testid="science-nav-link" href="https://telcovasworld.com/press-release/3d/theme-science"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Science</span></a>
+<a aria-label="Navigate to Science" data-discover="true" data-testid="science-nav-link" href="https://www.telcovasworld.com/press-release/3d/theme-science"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Science</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Technology" data-discover="true" data-testid="technology-nav-link" href="https://telcovasworld.com/press-release/3d/theme-technology"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Technology</span></a>
+<a aria-label="Navigate to Technology" data-discover="true" data-testid="technology-nav-link" href="https://www.telcovasworld.com/press-release/3d/theme-technology"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Technology</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Medical" data-discover="true" data-testid="medical-nav-link" href="https://telcovasworld.com/press-release/3d/theme-medical"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Medical</span></a>
+<a aria-label="Navigate to Medical" data-discover="true" data-testid="medical-nav-link" href="https://www.telcovasworld.com/press-release/3d/theme-medical"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Medical</span></a>
                                                 </div>
                                               </li>
                                             </ul>
@@ -3063,42 +3063,42 @@ Top Photo Searches
                                             <ul class="ES35fwD6 jA4sXDPG SHv85Oe2 GjgsucRA uedkJzta">
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Car" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release/3d/car"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Car</span></a>
+<a aria-label="Navigate to Car" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release/3d/car"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Car</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to House" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release/3d/house"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">House</span></a>
+<a aria-label="Navigate to House" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release/3d/house"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">House</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Tree" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release/3d/tree"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Tree</span></a>
+<a aria-label="Navigate to Tree" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release/3d/tree"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Tree</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Chair" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release/3d/chair"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Chair</span></a>
+<a aria-label="Navigate to Chair" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release/3d/chair"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Chair</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Table" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release/3d/table"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Table</span></a>
+<a aria-label="Navigate to Table" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release/3d/table"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Table</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Box" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release/3d/box"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Box</span></a>
+<a aria-label="Navigate to Box" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release/3d/box"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Box</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Game Machine" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release/3d/Game+machine"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Game Machine</span></a>
+<a aria-label="Navigate to Game Machine" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release/3d/Game+machine"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Game Machine</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Fridges" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release/3d/fridges"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Fridges</span></a>
+<a aria-label="Navigate to Fridges" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release/3d/fridges"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Fridges</span></a>
                                                 </div>
                                               </li>
                                             </ul>
@@ -3110,12 +3110,12 @@ Top Photo Searches
                                             <ul class="ES35fwD6 jA4sXDPG SHv85Oe2 GjgsucRA uedkJzta">
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Spline" data-discover="true" data-testid="spline-nav-link" href="https://telcovasworld.com/press-release/3d/file-types-spline"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Spline</span></a>
+<a aria-label="Navigate to Spline" data-discover="true" data-testid="spline-nav-link" href="https://www.telcovasworld.com/press-release/3d/file-types-spline"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Spline</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Blender" data-discover="true" data-testid="blender-nav-link" href="https://telcovasworld.com/press-release/3d/file-types-blend"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Blender</span></a>
+<a aria-label="Navigate to Blender" data-discover="true" data-testid="blender-nav-link" href="https://www.telcovasworld.com/press-release/3d/file-types-blend"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Blender</span></a>
                                                 </div>
                                               </li>
                                             </ul>
@@ -3155,27 +3155,27 @@ Top Photo Searches
                                             <ul class="ES35fwD6 jA4sXDPG SHv85Oe2 GjgsucRA uedkJzta">
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to All Fonts →" data-discover="true" data-testid="all-fonts-nav-link" href="https://telcovasworld.com/press-release/"><span class="_7yoIykb4 jcI_vEqq Qu5eWXzk">All Fonts →</span></a>
+<a aria-label="Navigate to All Fonts →" data-discover="true" data-testid="all-fonts-nav-link" href="https://www.telcovasworld.com/press-release/"><span class="_7yoIykb4 jcI_vEqq Qu5eWXzk">All Fonts →</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Serif" data-discover="true" data-testid="serif-nav-link" href="https://telcovasworld.com/press-release//serif"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Serif</span></a>
+<a aria-label="Navigate to Serif" data-discover="true" data-testid="serif-nav-link" href="https://www.telcovasworld.com/press-release//serif"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Serif</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Sans-Serif" data-discover="true" data-testid="sans-serif-nav-link" href="https://telcovasworld.com/press-release//sans-serif"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Sans-Serif</span></a>
+<a aria-label="Navigate to Sans-Serif" data-discover="true" data-testid="sans-serif-nav-link" href="https://www.telcovasworld.com/press-release//sans-serif"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Sans-Serif</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Script and Handwritten" data-discover="true" data-testid="script-and-handwritten-nav-link" href="https://telcovasworld.com/press-release//script-and-handwritten"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Script and Handwritten</span></a>
+<a aria-label="Navigate to Script and Handwritten" data-discover="true" data-testid="script-and-handwritten-nav-link" href="https://www.telcovasworld.com/press-release//script-and-handwritten"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Script and Handwritten</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Decorative" data-discover="true" data-testid="decorative-nav-link" href="https://telcovasworld.com/press-release//decorative"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Decorative</span></a>
+<a aria-label="Navigate to Decorative" data-discover="true" data-testid="decorative-nav-link" href="https://www.telcovasworld.com/press-release//decorative"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Decorative</span></a>
                                                 </div>
                                               </li>
                                             </ul>
@@ -3187,42 +3187,42 @@ Top Photo Searches
                                             <ul class="ES35fwD6 jA4sXDPG SHv85Oe2 GjgsucRA uedkJzta">
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Luxury" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release//luxury"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Luxury</span></a>
+<a aria-label="Navigate to Luxury" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release//luxury"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Luxury</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Food" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release//food"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Food</span></a>
+<a aria-label="Navigate to Food" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release//food"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Food</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Logo" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release//logo"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Logo</span></a>
+<a aria-label="Navigate to Logo" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release//logo"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Logo</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Neon" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release//neon"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Neon</span></a>
+<a aria-label="Navigate to Neon" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release//neon"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Neon</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Sign Painting" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release//sign+painting"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Sign Painting</span></a>
+<a aria-label="Navigate to Sign Painting" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release//sign+painting"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Sign Painting</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Sports" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release//sports"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Sports</span></a>
+<a aria-label="Navigate to Sports" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release//sports"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Sports</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Modern" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release//modern"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Modern</span></a>
+<a aria-label="Navigate to Modern" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release//modern"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Modern</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Arabic" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release//arabic"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Arabic</span></a>
+<a aria-label="Navigate to Arabic" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release//arabic"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Arabic</span></a>
                                                 </div>
                                               </li>
                                             </ul>
@@ -3262,32 +3262,32 @@ Top Photo Searches
                                             <ul class="ES35fwD6 jA4sXDPG SHv85Oe2 GjgsucRA uedkJzta">
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to All Web Templates →" data-discover="true" data-testid="all-web-templates-nav-link" href="https://telcovasworld.com/press-release/web-templates"><span class="_7yoIykb4 jcI_vEqq Qu5eWXzk">All Web Templates →</span></a>
+<a aria-label="Navigate to All Web Templates →" data-discover="true" data-testid="all-web-templates-nav-link" href="https://www.telcovasworld.com/press-release/web-templates"><span class="_7yoIykb4 jcI_vEqq Qu5eWXzk">All Web Templates →</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Admin Templates" data-discover="true" data-testid="admin-templates-nav-link" href="https://telcovasworld.com/press-release/web-templates/admin-templates"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Admin Templates</span></a>
+<a aria-label="Navigate to Admin Templates" data-discover="true" data-testid="admin-templates-nav-link" href="https://www.telcovasworld.com/press-release/web-templates/admin-templates"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Admin Templates</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Email Templates" data-discover="true" data-testid="email-templates-nav-link" href="https://telcovasworld.com/press-release/web-templates/email-templates"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Email Templates</span></a>
+<a aria-label="Navigate to Email Templates" data-discover="true" data-testid="email-templates-nav-link" href="https://www.telcovasworld.com/press-release/web-templates/email-templates"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Email Templates</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Site Templates" data-discover="true" data-testid="site-templates-nav-link" href="https://telcovasworld.com/press-release/web-templates/site-templates"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Site Templates</span></a>
+<a aria-label="Navigate to Site Templates" data-discover="true" data-testid="site-templates-nav-link" href="https://www.telcovasworld.com/press-release/web-templates/site-templates"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Site Templates</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Landing Page Templates" data-discover="true" data-testid="landing-page-templates-nav-link" href="https://telcovasworld.com/press-release/web-templates/landing-page-templates"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Landing Page Templates</span></a>
+<a aria-label="Navigate to Landing Page Templates" data-discover="true" data-testid="landing-page-templates-nav-link" href="https://www.telcovasworld.com/press-release/web-templates/landing-page-templates"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Landing Page Templates</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to CMS Templates" data-discover="true" data-testid="cms-templates-nav-link" href="https://telcovasworld.com/press-release/cms-templates"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">CMS Templates</span></a>
+<a aria-label="Navigate to CMS Templates" data-discover="true" data-testid="cms-templates-nav-link" href="https://www.telcovasworld.com/press-release/cms-templates"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">CMS Templates</span></a>
                                                 </div>
                                               </li>
                                             </ul>
@@ -3296,27 +3296,27 @@ Top Photo Searches
                                             <ul class="ES35fwD6 jA4sXDPG SHv85Oe2 GjgsucRA uedkJzta">
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to All WordPress →" data-discover="true" data-testid="all-wordpress-nav-link" href="https://telcovasworld.com/press-release/wordpress"><span class="_7yoIykb4 jcI_vEqq Qu5eWXzk">All WordPress →</span></a>
+<a aria-label="Navigate to All WordPress →" data-discover="true" data-testid="all-wordpress-nav-link" href="https://www.telcovasworld.com/press-release/wordpress"><span class="_7yoIykb4 jcI_vEqq Qu5eWXzk">All WordPress →</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Themes" data-discover="true" data-testid="themes-nav-link" href="https://telcovasworld.com/press-release/wordpress/themes"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Themes</span></a>
+<a aria-label="Navigate to Themes" data-discover="true" data-testid="themes-nav-link" href="https://www.telcovasworld.com/press-release/wordpress/themes"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Themes</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Plugins" data-discover="true" data-testid="plugins-nav-link" href="https://telcovasworld.com/press-release/wordpress/plugins"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Plugins</span></a>
+<a aria-label="Navigate to Plugins" data-discover="true" data-testid="plugins-nav-link" href="https://www.telcovasworld.com/press-release/wordpress/plugins"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Plugins</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Template Kits" data-discover="true" data-testid="template-kits-nav-link" href="https://telcovasworld.com/press-release/wordpress/template-kits"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Template Kits</span></a>
+<a aria-label="Navigate to Template Kits" data-discover="true" data-testid="template-kits-nav-link" href="https://www.telcovasworld.com/press-release/wordpress/template-kits"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Template Kits</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Elementor" data-discover="true" data-testid="elementor-nav-link" href="https://telcovasworld.com/press-release/wordpress/compatible-with-elementor"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Elementor</span></a>
+<a aria-label="Navigate to Elementor" data-discover="true" data-testid="elementor-nav-link" href="https://www.telcovasworld.com/press-release/wordpress/compatible-with-elementor"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Elementor</span></a>
                                                 </div>
                                               </li>
                                             </ul>
@@ -3328,42 +3328,42 @@ Top Photo Searches
                                             <ul class="ES35fwD6 jA4sXDPG SHv85Oe2 GjgsucRA uedkJzta">
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to React" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release/web-templates/react"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">React</span></a>
+<a aria-label="Navigate to React" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release/web-templates/react"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">React</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to eCommerce" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release/web-templates/ecommerce"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">eCommerce</span></a>
+<a aria-label="Navigate to eCommerce" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release/web-templates/ecommerce"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">eCommerce</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Wordpress Blog" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release/wordpress/blog"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Wordpress Blog</span></a>
+<a aria-label="Navigate to Wordpress Blog" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release/wordpress/blog"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Wordpress Blog</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Event" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release/web-templates/event"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Event</span></a>
+<a aria-label="Navigate to Event" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release/web-templates/event"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Event</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Portfolio" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release/web-templates/portfolio"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Portfolio</span></a>
+<a aria-label="Navigate to Portfolio" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release/web-templates/portfolio"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Portfolio</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to WordPress Agency" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release/wordpress/agency"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">WordPress Agency</span></a>
+<a aria-label="Navigate to WordPress Agency" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release/wordpress/agency"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">WordPress Agency</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to WordPress Ecommerce" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release/wordpress/ecommerce"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">WordPress Ecommerce</span></a>
+<a aria-label="Navigate to WordPress Ecommerce" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release/wordpress/ecommerce"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">WordPress Ecommerce</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to WordPress Newspaper" data-discover="true" data-testid="-nav-link" href="https://telcovasworld.com/press-release/wordpress/newspaper"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">WordPress Newspaper</span></a>
+<a aria-label="Navigate to WordPress Newspaper" data-discover="true" data-testid="-nav-link" href="https://www.telcovasworld.com/press-release/wordpress/newspaper"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">WordPress Newspaper</span></a>
                                                 </div>
                                               </li>
                                             </ul>
@@ -3403,27 +3403,27 @@ Top Photo Searches
                                             <ul class="ES35fwD6 jA4sXDPG SHv85Oe2 GjgsucRA uedkJzta">
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Explore Blog →" data-testid="explore-blog-nav-link" href="https://telcovasworld.com/press-release/learn"><span class="_7yoIykb4 jcI_vEqq Qu5eWXzk">Explore Blog →</span></a>
+<a aria-label="Navigate to Explore Blog →" data-testid="explore-blog-nav-link" href="https://www.telcovasworld.com/press-release/learn"><span class="_7yoIykb4 jcI_vEqq Qu5eWXzk">Explore Blog →</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Video &amp; Music" data-testid="video-and-music-nav-link" href="https://telcovasworld.com/press-release/learn/c/video-music"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Video &amp; Music</span></a>
+<a aria-label="Navigate to Video &amp; Music" data-testid="video-and-music-nav-link" href="https://www.telcovasworld.com/press-release/learn/c/video-music"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Video &amp; Music</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Design" data-testid="design-nav-link" href="https://telcovasworld.com/press-release/learn/c/design"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Design</span></a>
+<a aria-label="Navigate to Design" data-testid="design-nav-link" href="https://www.telcovasworld.com/press-release/learn/c/design"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Design</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Marketing" data-testid="marketing-nav-link" href="https://telcovasworld.com/press-release/learn/c/marketing"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Marketing</span></a>
+<a aria-label="Navigate to Marketing" data-testid="marketing-nav-link" href="https://www.telcovasworld.com/press-release/learn/c/marketing"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Marketing</span></a>
                                                 </div>
                                               </li>
                                               <li>
                                                 <div class="ai6TuAOT">
-<a aria-label="Navigate to Web Design" data-testid="web-design-nav-link" href="https://telcovasworld.com/press-release/learn/c/web-design"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Web Design</span></a>
+<a aria-label="Navigate to Web Design" data-testid="web-design-nav-link" href="https://www.telcovasworld.com/press-release/learn/c/web-design"><span class="_7yoIykb4 DbkD6_G1 Qu5eWXzk">Web Design</span></a>
                                                 </div>
                                               </li>
                                             </ul>
@@ -3683,16 +3683,16 @@ GraphicsGen
                               <div class="HCzoCZuh" data-testid="breadcrumbs">
                                 <div class="o3zH6TKr" role="list">
                                   <div class="nf7R5lM0" role="listitem">
-<a class="MwuuClIh GbsYiegj" data-discover="true" href="https://telcovasworld.com/press-release/"><span class="JBuOgXcI">KARTUBET88</span></a>
+<a class="MwuuClIh GbsYiegj" data-discover="true" href="https://www.telcovasworld.com/press-release/"><span class="JBuOgXcI">KARTUBET88</span></a>
                                   </div>
                                   <div class="nf7R5lM0" role="listitem">
-<a class="MwuuClIh GbsYiegj" data-discover="true" href="https://telcovasworld.com/press-release/"><span class="JBuOgXcI">KARTUBET88 LOGIN</span></a>
+<a class="MwuuClIh GbsYiegj" data-discover="true" href="https://www.telcovasworld.com/press-release/"><span class="JBuOgXcI">KARTUBET88 LOGIN</span></a>
                                   </div>
                                   <div class="nf7R5lM0" role="listitem">
-<a class="MwuuClIh GbsYiegj" data-discover="true" href="https://telcovasworld.com/press-release/"><span class="JBuOgXcI">KARTUBET88 GAME</span></a>
+<a class="MwuuClIh GbsYiegj" data-discover="true" href="https://www.telcovasworld.com/press-release/"><span class="JBuOgXcI">KARTUBET88 GAME</span></a>
                                   </div>
                                   <div class="nf7R5lM0" role="listitem">
-<a class="MwuuClIh GbsYiegj" data-discover="true" href="https://telcovasworld.com/press-release/"><span class="JBuOgXcI">KARTUBET88 : Rasakan Nikmatinya Permainan Yang Seru Dan Berkhualitas</span></a>
+<a class="MwuuClIh GbsYiegj" data-discover="true" href="https://www.telcovasworld.com/press-release/"><span class="JBuOgXcI">KARTUBET88 : Rasakan Nikmatinya Permainan Yang Seru Dan Berkhualitas</span></a>
                                   </div>
                                 </div>
                               </div>
@@ -3816,7 +3816,7 @@ PILIHAN GAME NYA LENGKAP
                                                   <svg class="ovfKxhpl CiKgWgb0" role="img" title="bookmark-outlined" viewbox="0 0 24 24">
 <use href="#bookmark-outlined"></use>
                                                   </svg>
-</span><a href="https://telcovasworld.com/press-release/"><span aria-hidden="false" class="sK5Xe1gB">Add to collection</span></a></button>
+</span><a href="https://www.telcovasworld.com/press-release/"><span aria-hidden="false" class="sK5Xe1gB">Add to collection</span></a></button>
                                             </div>
                                           </div>
                                           <div class="ES35fwD6 Z8wCehge sNjFhu89">
@@ -3971,7 +3971,7 @@ PILIHAN GAME NYA LENGKAP
                                         <p class="_7yoIykb4 jcI_vEqq Qu5eWXzk">KARTUBET88 : Rasakan Nikmatinya Permainan Yang Seru Dan Berkhualitas</p>
                                         <div class="ZAhsKZAG">
                                           <div class="gMoJXr6D">
-                                            <p style="text-align: justify;">Jika kamu yang merasa bosan dengan rutinitas permainan biasa-biasa aja, yuk saatnya beralih ke <strong><a href="https://telcovasworld.com/press-release/">KARTUBET88</a></strong> buat merasakan pengalaman bermain yang jauh lebih penuh tantangan sekaligus juga menguntungkan. Dengan perpaduan antara kualitas visual yang memukau serta sistem permainan berstandar kelas dunia, sudah pasti setiap sesi permainan kalian akan terasa lebih hidup dan memuaskan. Segera klik tautan di bawah ini untuk mengunduh APK-nya di perangkat kamu, serta nikmati sensasi kemenangan sesungguhnya yang belum pernah Anda rasakan sebelumnya</p>
+                                            <p style="text-align: justify;">Jika kamu yang merasa bosan dengan rutinitas permainan biasa-biasa aja, yuk saatnya beralih ke <strong><a href="https://www.telcovasworld.com/press-release/">KARTUBET88</a></strong> buat merasakan pengalaman bermain yang jauh lebih penuh tantangan sekaligus juga menguntungkan. Dengan perpaduan antara kualitas visual yang memukau serta sistem permainan berstandar kelas dunia, sudah pasti setiap sesi permainan kalian akan terasa lebih hidup dan memuaskan. Segera klik tautan di bawah ini untuk mengunduh APK-nya di perangkat kamu, serta nikmati sensasi kemenangan sesungguhnya yang belum pernah Anda rasakan sebelumnya</p>
                                         </div>
                                       </div>
                                     </div>
@@ -3983,7 +3983,7 @@ PILIHAN GAME NYA LENGKAP
                                         </p>
                                         <ul class="LTyNgPJu akbOyW7N J3nrzrT4 i7W3a7Tu">
                                           <li class="LDWqu7Z4">
-                                            <a class="iuPSyJ4H C9ry1_nh" data-discover="true" href="https://telcovasworld.com/press-release/" title="Arena Spin Digital Paling Favorit">
+                                            <a class="iuPSyJ4H C9ry1_nh" data-discover="true" href="https://www.telcovasworld.com/press-release/" title="Arena Spin Digital Paling Favorit">
                                               <div class="ES35fwD6 m7Iyz5uy VG1OHJZn DTOY7XUp Tf9hWtFk J6W4og9v HtgvARhn rLny0uwo JgwFOwd5 OMAOclQL">
                                                 <div class="YvP5xCsZ">
                                                     Arena Spin Digital Paling Favorit
@@ -3992,7 +3992,7 @@ PILIHAN GAME NYA LENGKAP
                                             </a>
                                           </li>
                                           <li class="LDWqu7Z4">
-                                           <a class="iuPSyJ4H C9ry1_nh" data-discover="true" href="https://telcovasworld.com/press-release/" title="Pusat Hiburan Reel Interaktif">
+                                           <a class="iuPSyJ4H C9ry1_nh" data-discover="true" href="https://www.telcovasworld.com/press-release/" title="Pusat Hiburan Reel Interaktif">
                                               <div class="ES35fwD6 m7Iyz5uy VG1OHJZn DTOY7XUp Tf9hWtFk J6W4og9v HtgvARhn rLny0uwo JgwFOwd5 OMAOclQL">
                                                 <div class="YvP5xCsZ">
                                                     Pusat Hiburan Reel Interaktif
@@ -4001,7 +4001,7 @@ PILIHAN GAME NYA LENGKAP
                                             </a>
                                           </li>
                                           <li class="LDWqu7Z4">
-                                        <a class="iuPSyJ4H C9ry1_nh" data-discover="true" href="https://telcovasworld.com/press-release/" title="Game Putar Virtual Penuh Sensasi">
+                                        <a class="iuPSyJ4H C9ry1_nh" data-discover="true" href="https://www.telcovasworld.com/press-release/" title="Game Putar Virtual Penuh Sensasi">
                                               <div class="ES35fwD6 m7Iyz5uy VG1OHJZn DTOY7XUp Tf9hWtFk J6W4og9v HtgvARhn rLny0uwo JgwFOwd5 OMAOclQL">
                                                 <div class="YvP5xCsZ">
                                                     Game Putar Virtual Penuh Sensasi
@@ -4010,7 +4010,7 @@ PILIHAN GAME NYA LENGKAP
                                             </a>
                                           </li>
                                           <li class="LDWqu7Z4">
-                                        <a class="iuPSyJ4H C9ry1_nh" data-discover="true" href="https://telcovasworld.com/press-release/" title="Tempat Main Game Tema Eksklusif">
+                                        <a class="iuPSyJ4H C9ry1_nh" data-discover="true" href="https://www.telcovasworld.com/press-release/" title="Tempat Main Game Tema Eksklusif">
                                               <div class="ES35fwD6 m7Iyz5uy VG1OHJZn DTOY7XUp Tf9hWtFk J6W4og9v HtgvARhn rLny0uwo JgwFOwd5 OMAOclQL">
                                                 <div class="YvP5xCsZ">
                                                     Tempat Main Game Tema Eksklusif
@@ -4019,7 +4019,7 @@ PILIHAN GAME NYA LENGKAP
                                             </a>
                                           </li>
                                           <li class="LDWqu7Z4">
-                                    <a class="iuPSyJ4H C9ry1_nh" data-discover="true" href="https://telcovasworld.com/press-release/" title="Dunia Jackpot Online Modern">
+                                    <a class="iuPSyJ4H C9ry1_nh" data-discover="true" href="https://www.telcovasworld.com/press-release/" title="Dunia Jackpot Online Modern">
                                               <div class="ES35fwD6 m7Iyz5uy VG1OHJZn DTOY7XUp Tf9hWtFk J6W4og9v HtgvARhn rLny0uwo JgwFOwd5 OMAOclQL">
                                                 <div class="YvP5xCsZ">
                                                     Dunia Jackpot Online Modern
@@ -4028,7 +4028,7 @@ PILIHAN GAME NYA LENGKAP
                                     </a>
                                           </li>
                                           <li class="LDWqu7Z4">
-                                        <a class="iuPSyJ4H C9ry1_nh" data-discover="true" href="https://telcovasworld.com/press-release/" title="Portal Mesin Spin Masa Kini">
+                                        <a class="iuPSyJ4H C9ry1_nh" data-discover="true" href="https://www.telcovasworld.com/press-release/" title="Portal Mesin Spin Masa Kini">
                                               <div class="ES35fwD6 m7Iyz5uy VG1OHJZn DTOY7XUp Tf9hWtFk J6W4og9v HtgvARhn rLny0uwo JgwFOwd5 OMAOclQL">
                                                 <div class="YvP5xCsZ">
                                                     Portal Mesin Spin Masa Kini
@@ -4037,7 +4037,7 @@ PILIHAN GAME NYA LENGKAP
                                     </a>
                                           </li>
                                           <li class="LDWqu7Z4">
-                                    <a class="iuPSyJ4H C9ry1_nh" data-discover="true" href="https://telcovasworld.com/press-release/" rel="nofollow" title="Wahana Hiburan Game Premium">
+                                    <a class="iuPSyJ4H C9ry1_nh" data-discover="true" href="https://www.telcovasworld.com/press-release/" rel="nofollow" title="Wahana Hiburan Game Premium">
                                               <div class="ES35fwD6 m7Iyz5uy VG1OHJZn DTOY7XUp Tf9hWtFk J6W4og9v HtgvARhn rLny0uwo JgwFOwd5 OMAOclQL">
                                                 <div class="YvP5xCsZ">
                                                     Wahana Hiburan Toto Premium
@@ -4046,7 +4046,7 @@ PILIHAN GAME NYA LENGKAP
 </a>
                                           </li>
                                           <li class="LDWqu7Z4">
-<a class="iuPSyJ4H C9ry1_nh" data-discover="true" href="https://telcovasworld.com/press-release/" rel="nofollow" title="Zona Reel Online Paling Seru">
+<a class="iuPSyJ4H C9ry1_nh" data-discover="true" href="https://www.telcovasworld.com/press-release/" rel="nofollow" title="Zona Reel Online Paling Seru">
                                               <div class="ES35fwD6 m7Iyz5uy VG1OHJZn DTOY7XUp Tf9hWtFk J6W4og9v HtgvARhn rLny0uwo JgwFOwd5 OMAOclQL">
                                                 <div class="YvP5xCsZ">
                                                     Zona Reel Online Paling Seru
@@ -4055,7 +4055,7 @@ PILIHAN GAME NYA LENGKAP
 </a>
                                           </li>
                                           <li class="LDWqu7Z4">
-<a class="iuPSyJ4H C9ry1_nh" data-discover="true" href="https://telcovasworld.com/press-release/" title="Platform Spin Otomatis Kekinian">
+<a class="iuPSyJ4H C9ry1_nh" data-discover="true" href="https://www.telcovasworld.com/press-release/" title="Platform Spin Otomatis Kekinian">
                                               <div class="ES35fwD6 m7Iyz5uy VG1OHJZn DTOY7XUp Tf9hWtFk J6W4og9v HtgvARhn rLny0uwo JgwFOwd5 OMAOclQL">
                                                 <div class="YvP5xCsZ">
                                                     Platform Spin Otomatis Kekinian
@@ -4064,7 +4064,7 @@ PILIHAN GAME NYA LENGKAP
 </a>
                                           </li>
                                           <li class="LDWqu7Z4">
-<a class="iuPSyJ4H C9ry1_nh" data-discover="true" href="https://telcovasworld.com/press-release/" title="Pusat Game Gulir Digital">
+<a class="iuPSyJ4H C9ry1_nh" data-discover="true" href="https://www.telcovasworld.com/press-release/" title="Pusat Game Gulir Digital">
                                               <div class="ES35fwD6 m7Iyz5uy VG1OHJZn DTOY7XUp Tf9hWtFk J6W4og9v HtgvARhn rLny0uwo JgwFOwd5 OMAOclQL">
                                                 <div class="YvP5xCsZ">
                                                    Pusat Game Gulir Digital
@@ -4073,7 +4073,7 @@ PILIHAN GAME NYA LENGKAP
 </a>
                                           </li>
                                           <li class="LDWqu7Z4">
-<a class="iuPSyJ4H C9ry1_nh" data-discover="true" href="https://telcovasworld.com/press-release/" title="Game Virtual Nuansa Futuristik">
+<a class="iuPSyJ4H C9ry1_nh" data-discover="true" href="https://www.telcovasworld.com/press-release/" title="Game Virtual Nuansa Futuristik">
                                               <div class="ES35fwD6 m7Iyz5uy VG1OHJZn DTOY7XUp Tf9hWtFk J6W4og9v HtgvARhn rLny0uwo JgwFOwd5 OMAOclQL">
                                                 <div class="YvP5xCsZ">
                                                     Game Virtual Nuansa Futuristik
@@ -4082,7 +4082,7 @@ PILIHAN GAME NYA LENGKAP
 </a>
                                           </li>
                                           <li class="LDWqu7Z4">
-<a class="iuPSyJ4H C9ry1_nh" data-discover="true" href="https://telcovasworld.com/press-release/" title="Wahana Hiburan Game Premium Terpercaya">
+<a class="iuPSyJ4H C9ry1_nh" data-discover="true" href="https://www.telcovasworld.com/press-release/" title="Wahana Hiburan Game Premium Terpercaya">
                                               <div class="ES35fwD6 m7Iyz5uy VG1OHJZn DTOY7XUp Tf9hWtFk J6W4og9v HtgvARhn rLny0uwo JgwFOwd5 OMAOclQL">
                                                 <div class="YvP5xCsZ">
                                                    Arena Hiburan Putar Berkelas
@@ -4091,7 +4091,7 @@ PILIHAN GAME NYA LENGKAP
 </a>
                                           </li>
                                           <li class="LDWqu7Z4">
-<a class="iuPSyJ4H C9ry1_nh" data-discover="true" href="https://telcovasworld.com/press-release/" title="Tempat Spin Online Anti Membosankan">
+<a class="iuPSyJ4H C9ry1_nh" data-discover="true" href="https://www.telcovasworld.com/press-release/" title="Tempat Spin Online Anti Membosankan">
                                               <div class="ES35fwD6 m7Iyz5uy VG1OHJZn DTOY7XUp Tf9hWtFk J6W4og9v HtgvARhn rLny0uwo JgwFOwd5 OMAOclQL">
                                                 <div class="YvP5xCsZ">
                                                     Tempat Spin Online Anti Membosankan
@@ -4100,7 +4100,7 @@ PILIHAN GAME NYA LENGKAP
 </a>
                                           </li>
                                           <li class="LDWqu7Z4">
-<a class="iuPSyJ4H C9ry1_nh" data-discover="true" href="https://telcovasworld.com/press-release/" title="Komunitas Pecinta Reel Digital">
+<a class="iuPSyJ4H C9ry1_nh" data-discover="true" href="https://www.telcovasworld.com/press-release/" title="Komunitas Pecinta Reel Digital">
                                               <div class="ES35fwD6 m7Iyz5uy VG1OHJZn DTOY7XUp Tf9hWtFk J6W4og9v HtgvARhn rLny0uwo JgwFOwd5 OMAOclQL">
                                                 <div class="YvP5xCsZ">
                                                     Komunitas Pecinta Reel Digital
@@ -4109,7 +4109,7 @@ PILIHAN GAME NYA LENGKAP
 </a>
                                           </li>
                                           <li class="LDWqu7Z4">
-<a class="iuPSyJ4H C9ry1_nh" data-discover="true" href="https://telcovasworld.com/press-release/" title="Hiburan Mesin Putar Interaktif">
+<a class="iuPSyJ4H C9ry1_nh" data-discover="true" href="https://www.telcovasworld.com/press-release/" title="Hiburan Mesin Putar Interaktif">
                                               <div class="ES35fwD6 m7Iyz5uy VG1OHJZn DTOY7XUp Tf9hWtFk J6W4og9v HtgvARhn rLny0uwo JgwFOwd5 OMAOclQL">
                                                 <div class="YvP5xCsZ">
                                                     Hiburan Mesin Putar Interaktif
@@ -4154,7 +4154,7 @@ PILIHAN GAME NYA LENGKAP
                         <div class="mJVDWL6D" data-testid="footer-marketing-panel">
                           <div class="NsWdXpRH o8MJIZ9I vjNqqz_P">
                             <div class="QejAgNG_ rGep5HSU">
-<a class="XnPoMwM8" href="https://telcovasworld.com/press-release/">
+<a class="XnPoMwM8" href="https://www.telcovasworld.com/press-release/">
                                 <div class="ES35fwD6 hpXGB4LP Z8wCehge ZAaTEPZZ" data-testid="KARTUBET88-logo">
 <img alt="KARTUBET88" height="80" src="https://telcovasworld.com/images/favicon.png"/>
                                 </div>
@@ -4232,7 +4232,7 @@ PILIHAN GAME NYA LENGKAP
                         <div class="ES35fwD6 Z8wCehge XVtoiESc bjEsgNWZ M7ikmWSE l38mXzx2">
                           <div class="ffT_2HUc" data-testid="footer-links-panel">
                             <div class="QejAgNG_ akbOyW7N">
-<span class="_7yoIykb4 NDazUVew Qu5eWXzk">Discover</span><span class="_7yoIykb4 oddFflBz Qu5eWXzk"><a class="MwuuClIh GbsYiegj" href="https://telcovasworld.com/press-release/">About KARTUBET88</a></span><span class="_7yoIykb4 oddFflBz Qu5eWXzk"><a class="MwuuClIh GbsYiegj" href="https://telco-press-krt.pages.dev/">Our Pricing &amp; Plans</a></span><span class="_7yoIykb4 oddFflBz Qu5eWXzk"><a class="MwuuClIh GbsYiegj" href="https://telcovasworld.com/press-release/">Stock Video</a></span><span class="_7yoIykb4 oddFflBz Qu5eWXzk"><a class="MwuuClIh GbsYiegj" href="https://telcovasworld.com/press-release/">Video Templates</a></span><span class="_7yoIykb4 oddFflBz Qu5eWXzk"><a class="MwuuClIh GbsYiegj" href="https://telcovasworld.com/press-release/">Royalty-Free Music</a></span><span class="_7yoIykb4 oddFflBz Qu5eWXzk"><a class="MwuuClIh GbsYiegj" href="https://telcovasworld.com/press-release/">Stock Photos</a></span><span class="_7yoIykb4 oddFflBz Qu5eWXzk"><a class="MwuuClIh GbsYiegj" href="https://telcovasworld.com/press-release/">Fonts</a></span><span class="_7yoIykb4 oddFflBz Qu5eWXzk"><a class="MwuuClIh GbsYiegj" href="https://telcovasworld.com/press-release/">Popular Searches</a></span>
+<span class="_7yoIykb4 NDazUVew Qu5eWXzk">Discover</span><span class="_7yoIykb4 oddFflBz Qu5eWXzk"><a class="MwuuClIh GbsYiegj" href="https://www.telcovasworld.com/press-release/">About KARTUBET88</a></span><span class="_7yoIykb4 oddFflBz Qu5eWXzk"><a class="MwuuClIh GbsYiegj" href="https://telco-press-krt.pages.dev/">Our Pricing &amp; Plans</a></span><span class="_7yoIykb4 oddFflBz Qu5eWXzk"><a class="MwuuClIh GbsYiegj" href="https://www.telcovasworld.com/press-release/">Stock Video</a></span><span class="_7yoIykb4 oddFflBz Qu5eWXzk"><a class="MwuuClIh GbsYiegj" href="https://www.telcovasworld.com/press-release/">Video Templates</a></span><span class="_7yoIykb4 oddFflBz Qu5eWXzk"><a class="MwuuClIh GbsYiegj" href="https://www.telcovasworld.com/press-release/">Royalty-Free Music</a></span><span class="_7yoIykb4 oddFflBz Qu5eWXzk"><a class="MwuuClIh GbsYiegj" href="https://www.telcovasworld.com/press-release/">Stock Photos</a></span><span class="_7yoIykb4 oddFflBz Qu5eWXzk"><a class="MwuuClIh GbsYiegj" href="https://www.telcovasworld.com/press-release/">Fonts</a></span><span class="_7yoIykb4 oddFflBz Qu5eWXzk"><a class="MwuuClIh GbsYiegj" href="https://www.telcovasworld.com/press-release/">Popular Searches</a></span>
                             </div>
                             <div>
                               <div class="QejAgNG_ akbOyW7N">
@@ -4241,7 +4241,7 @@ PILIHAN GAME NYA LENGKAP
 <span class="_7yoIykb4 oddFflBz Qu5eWXzk"><button class="e84hgW0m jIUtXfqx" type="button">Cookie Settings</button></span>
                             </div>
                             <div class="QejAgNG_ akbOyW7N">
-<span class="_7yoIykb4 NDazUVew Qu5eWXzk">Resources</span><span class="_7yoIykb4 oddFflBz Qu5eWXzk"><a class="MwuuClIh GbsYiegj" href="https://www.youtube.com/@envatotuts">Discover Tuts+</a></span><span class="_7yoIykb4 oddFflBz Qu5eWXzk"><a class="MwuuClIh GbsYiegj" href="https://telcovasworld.com/press-release/learn/c/video-music">Video &amp; Music</a></span><span class="_7yoIykb4 oddFflBz Qu5eWXzk"><a class="MwuuClIh GbsYiegj" href="https://telcovasworld.com/press-release/learn/c/design">Design</a></span><span class="_7yoIykb4 oddFflBz Qu5eWXzk"><a class="MwuuClIh GbsYiegj" href="https://telcovasworld.com/press-release/learn/c/marketing">Marketing</a></span><span class="_7yoIykb4 oddFflBz Qu5eWXzk"><a class="MwuuClIh GbsYiegj" href="https://telcovasworld.com/press-release/learn/c/web-design">Web Design</a></span><span class="_7yoIykb4 oddFflBz Qu5eWXzk"><a class="MwuuClIh GbsYiegj" href="https://telcovasworld.com/press-release/learn">Explore Blog</a></span>
+<span class="_7yoIykb4 NDazUVew Qu5eWXzk">Resources</span><span class="_7yoIykb4 oddFflBz Qu5eWXzk"><a class="MwuuClIh GbsYiegj" href="https://www.youtube.com/@envatotuts">Discover Tuts+</a></span><span class="_7yoIykb4 oddFflBz Qu5eWXzk"><a class="MwuuClIh GbsYiegj" href="https://www.telcovasworld.com/press-release/learn/c/video-music">Video &amp; Music</a></span><span class="_7yoIykb4 oddFflBz Qu5eWXzk"><a class="MwuuClIh GbsYiegj" href="https://www.telcovasworld.com/press-release/learn/c/design">Design</a></span><span class="_7yoIykb4 oddFflBz Qu5eWXzk"><a class="MwuuClIh GbsYiegj" href="https://www.telcovasworld.com/press-release/learn/c/marketing">Marketing</a></span><span class="_7yoIykb4 oddFflBz Qu5eWXzk"><a class="MwuuClIh GbsYiegj" href="https://www.telcovasworld.com/press-release/learn/c/web-design">Web Design</a></span><span class="_7yoIykb4 oddFflBz Qu5eWXzk"><a class="MwuuClIh GbsYiegj" href="https://www.telcovasworld.com/press-release/learn">Explore Blog</a></span>
                             </div>
                             <div class="QejAgNG_ akbOyW7N">
 <span class="_7yoIykb4 NDazUVew Qu5eWXzk">Help</span><span class="_7yoIykb4 oddFflBz Qu5eWXzk"><a class="MwuuClIh GbsYiegj" href="https://help.elements.envato.com/hc/en-us/">Help Center</a></span><span class="_7yoIykb4 oddFflBz Qu5eWXzk"><a class="MwuuClIh GbsYiegj" href="https://www.envato.com/affiliates/">Become an Affiliate</a></span>
@@ -4336,7 +4336,7 @@ PILIHAN GAME NYA LENGKAP
             <nav class="ES35fwD6 jjnfNUdM J6W4og9v SHv85Oe2 rLny0uwo uedkJzta" data-testid="bottom-navigation">
               <div class="l0z8Gogx gktLxQxk exzsVg0t">
                 <div class="ES35fwD6 M7ikmWSE">
-<a class="XnPoMwM8" data-discover="true" data-testid="bottom-navigation-HOME" href="https://telcovasworld.com/press-release/">
+<a class="XnPoMwM8" data-discover="true" data-testid="bottom-navigation-HOME" href="https://www.telcovasworld.com/press-release/">
                     <div class="ES35fwD6 Z8wCehge ZAaTEPZZ sNjFhu89">
                       <div class="QejAgNG_ R7OCkfor GaPUhC0N">
                         <svg class="ovfKxhpl CiKgWgb0" role="img" style="--color:var(--color-content-secondary, currentColor)" title="home" viewbox="0 0 24 24">
@@ -4348,7 +4348,7 @@ PILIHAN GAME NYA LENGKAP
 </a>
                 </div>
                 <div class="ES35fwD6 M7ikmWSE">
-<a class="XnPoMwM8" data-discover="true" data-testid="bottom-navigation-CATEGORIES" href="https://telcovasworld.com/press-release/">
+<a class="XnPoMwM8" data-discover="true" data-testid="bottom-navigation-CATEGORIES" href="https://www.telcovasworld.com/press-release/">
                     <div class="ES35fwD6 Z8wCehge ZAaTEPZZ sNjFhu89">
                       <div class="QejAgNG_ R7OCkfor GaPUhC0N">
                         <svg class="ovfKxhpl CiKgWgb0" role="img" style="--color:var(--color-content-primary, currentColor)" title="panorama" viewbox="0 0 24 24">
